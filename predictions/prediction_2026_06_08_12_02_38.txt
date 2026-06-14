@@ -1,0 +1,4 @@
+Prediction: 6
+Confidence: 65.8%
+Drawing: digit_2026_06_08_12_02_38.png
+Time: 2026-06-08T12:02:38.968077

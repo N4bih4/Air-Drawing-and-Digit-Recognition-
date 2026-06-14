@@ -1,0 +1,1456 @@
+2026-06-07 01:59:39,478 | INFO | Initializing hand detector...
+2026-06-07 01:59:40,124 | INFO | Loading MNIST digit classifier...
+2026-06-07 01:59:59,457 | INFO | Initializing hand detector...
+2026-06-07 01:59:59,653 | INFO | Loading MNIST digit classifier...
+2026-06-07 02:07:58,952 | INFO | Downloading MNIST dataset (first run, ~60 MB)...
+2026-06-07 02:08:48,400 | INFO | Initializing hand detector...
+2026-06-07 02:08:48,593 | INFO | Loading MNIST digit classifier...
+2026-06-07 02:08:48,595 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-07 02:08:48,598 | INFO | Downloading MNIST dataset (first run, ~60 MB)...
+2026-06-07 02:12:57,119 | INFO | Initializing hand detector...
+2026-06-07 02:12:57,277 | INFO | Loading MNIST digit classifier...
+2026-06-07 02:12:57,281 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-07 02:12:57,285 | INFO | Downloading MNIST dataset (first run, ~60 MB)...
+2026-06-07 02:13:53,098 | INFO | MNIST cached to dataset/ (70000 samples)
+2026-06-07 02:13:53,204 | INFO | Training scikit-learn MLP on 70000 samples...
+2026-06-07 02:15:32,264 | INFO | Training accuracy: 99.59%
+2026-06-07 02:15:32,278 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model.joblib
+2026-06-07 02:15:50,274 | INFO | Application started (1280x672)
+2026-06-07 02:16:10,696 | INFO | Prediction: 5 (97.5%)
+2026-06-07 02:16:10,723 | INFO | History: 1 predictions, avg conf 97.5%
+2026-06-07 02:16:22,937 | INFO | Prediction: 5 (91.5%)
+2026-06-07 02:16:22,960 | INFO | History: 2 predictions, avg conf 94.5%
+2026-06-07 02:16:26,747 | INFO | Prediction: 5 (99.6%)
+2026-06-07 02:16:26,766 | INFO | History: 3 predictions, avg conf 96.2%
+2026-06-07 02:16:33,752 | INFO | Prediction: 5 (95.8%)
+2026-06-07 02:16:33,774 | INFO | History: 4 predictions, avg conf 96.1%
+2026-06-07 02:16:57,421 | INFO | Prediction: 7 (91.7%)
+2026-06-07 02:16:57,447 | INFO | History: 5 predictions, avg conf 95.2%
+2026-06-07 02:17:49,727 | INFO | Prediction: 4 (72.5%)
+2026-06-07 02:17:49,780 | INFO | History: 6 predictions, avg conf 91.4%
+2026-06-07 02:17:53,739 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:17:53,773 | INFO | History: 7 predictions, avg conf 92.6%
+2026-06-07 02:18:00,319 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:18:00,356 | INFO | History: 8 predictions, avg conf 93.6%
+2026-06-07 02:18:02,533 | INFO | Prediction: 4 (72.5%)
+2026-06-07 02:18:02,565 | INFO | History: 9 predictions, avg conf 91.2%
+2026-06-07 02:18:02,848 | INFO | Prediction: 4 (72.5%)
+2026-06-07 02:18:06,670 | INFO | History: 10 predictions, avg conf 89.3%
+2026-06-07 02:18:29,862 | INFO | Prediction: 1 (98.9%)
+2026-06-07 02:18:29,890 | INFO | History: 11 predictions, avg conf 90.2%
+2026-06-07 02:18:35,794 | INFO | Prediction: 4 (99.7%)
+2026-06-07 02:18:35,816 | INFO | History: 12 predictions, avg conf 91.0%
+2026-06-07 02:18:45,674 | INFO | Prediction: 5 (53.6%)
+2026-06-07 02:18:45,725 | INFO | History: 13 predictions, avg conf 88.1%
+2026-06-07 02:18:48,340 | INFO | Prediction: 5 (53.6%)
+2026-06-07 02:18:48,399 | INFO | History: 14 predictions, avg conf 85.7%
+2026-06-07 02:19:01,755 | INFO | Prediction: 5 (97.9%)
+2026-06-07 02:19:01,804 | INFO | History: 15 predictions, avg conf 86.5%
+2026-06-07 02:19:08,150 | INFO | Prediction: 7 (86.9%)
+2026-06-07 02:19:08,189 | INFO | History: 16 predictions, avg conf 86.5%
+2026-06-07 02:19:23,915 | INFO | Prediction: 7 (47.1%)
+2026-06-07 02:19:23,937 | INFO | History: 17 predictions, avg conf 84.2%
+2026-06-07 02:19:33,920 | INFO | Prediction: 7 (47.1%)
+2026-06-07 02:19:35,863 | INFO | History: 18 predictions, avg conf 82.1%
+2026-06-07 02:19:38,327 | INFO | Prediction: 7 (47.1%)
+2026-06-07 02:19:40,204 | INFO | History: 19 predictions, avg conf 80.3%
+2026-06-07 02:19:41,015 | INFO | Prediction: 7 (47.1%)
+2026-06-07 02:19:42,877 | INFO | History: 20 predictions, avg conf 78.6%
+2026-06-07 02:19:44,143 | INFO | Prediction: 7 (47.1%)
+2026-06-07 02:19:46,153 | INFO | History: 21 predictions, avg conf 77.1%
+2026-06-07 02:19:59,132 | INFO | Prediction: 7 (47.1%)
+2026-06-07 02:20:00,967 | INFO | History: 22 predictions, avg conf 75.8%
+2026-06-07 02:20:08,529 | INFO | Prediction: 4 (77.3%)
+2026-06-07 02:20:08,537 | INFO | History: 23 predictions, avg conf 75.8%
+2026-06-07 02:20:12,082 | INFO | Prediction: 4 (77.3%)
+2026-06-07 02:20:13,772 | INFO | History: 24 predictions, avg conf 75.9%
+2026-06-07 02:20:24,099 | INFO | Prediction: 4 (89.3%)
+2026-06-07 02:20:24,108 | INFO | History: 25 predictions, avg conf 76.4%
+2026-06-07 02:21:00,360 | INFO | Application closed.
+2026-06-07 02:21:22,463 | INFO | Initializing hand detector...
+2026-06-07 02:21:22,510 | INFO | Loading MNIST digit classifier...
+2026-06-07 02:21:22,511 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-07 02:21:22,512 | INFO | Loading cached MNIST from dataset/
+2026-06-07 02:21:22,872 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-07 02:21:24,555 | INFO | Training set size: 62436 (with air-drawn augmentation)
+2026-06-07 02:21:24,591 | INFO | Training scikit-learn MLP...
+2026-06-07 02:23:09,317 | INFO | Training accuracy: 98.76%
+2026-06-07 02:23:09,327 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v2.joblib
+2026-06-07 02:23:15,302 | INFO | Application started (1280x672)
+2026-06-07 02:25:24,579 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_07_02_25_24.png
+2026-06-07 02:26:24,024 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:26:25,856 | INFO | History: 26 predictions, avg conf 77.3%
+2026-06-07 02:26:26,109 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:26:26,116 | INFO | History: 27 predictions, avg conf 78.2%
+2026-06-07 02:26:28,411 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:26:30,089 | INFO | History: 28 predictions, avg conf 79.0%
+2026-06-07 02:26:42,425 | INFO | Prediction: 1 (99.9%)
+2026-06-07 02:26:44,172 | INFO | History: 29 predictions, avg conf 79.7%
+2026-06-07 02:26:45,116 | INFO | Prediction: 1 (99.9%)
+2026-06-07 02:26:45,125 | INFO | History: 30 predictions, avg conf 80.3%
+2026-06-07 02:27:25,451 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_07_02_27_25.png
+2026-06-07 02:28:58,866 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:29:00,548 | INFO | History: 31 predictions, avg conf 81.0%
+2026-06-07 02:29:01,698 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:29:01,713 | INFO | History: 32 predictions, avg conf 81.6%
+2026-06-07 02:29:04,999 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:29:05,017 | INFO | History: 33 predictions, avg conf 82.1%
+2026-06-07 02:29:25,215 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_07_02_29_25.png
+2026-06-07 02:30:10,378 | INFO | Application closed.
+2026-06-07 02:30:48,385 | INFO | Initializing hand detector...
+2026-06-07 02:30:48,434 | INFO | Loading MNIST digit classifier...
+2026-06-07 02:30:48,435 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-07 02:30:48,436 | INFO | Loading cached MNIST from dataset/
+2026-06-07 02:30:48,797 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-07 02:30:50,563 | INFO | Training set size: 64204 (with air-drawn augmentation)
+2026-06-07 02:30:50,593 | INFO | Training scikit-learn MLP...
+2026-06-07 02:33:02,225 | INFO | Training accuracy: 98.94%
+2026-06-07 02:33:02,235 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v3.joblib
+2026-06-07 02:33:08,403 | INFO | Application started (1280x672)
+2026-06-07 02:33:48,304 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:33:50,223 | INFO | History: 34 predictions, avg conf 82.7%
+2026-06-07 02:33:50,246 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:33:50,256 | INFO | History: 35 predictions, avg conf 83.2%
+2026-06-07 02:34:00,904 | INFO | Prediction: 9 (57.1%)
+2026-06-07 02:34:02,689 | INFO | History: 36 predictions, avg conf 82.4%
+2026-06-07 02:34:02,714 | INFO | Prediction: 9 (57.1%)
+2026-06-07 02:34:02,724 | INFO | History: 37 predictions, avg conf 81.7%
+2026-06-07 02:34:07,583 | INFO | Prediction: 9 (57.1%)
+2026-06-07 02:34:07,593 | INFO | History: 38 predictions, avg conf 81.1%
+2026-06-07 02:34:21,901 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:34:23,587 | INFO | History: 39 predictions, avg conf 81.6%
+2026-06-07 02:34:23,607 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:34:23,616 | INFO | History: 40 predictions, avg conf 82.0%
+2026-06-07 02:34:46,287 | INFO | Prediction: 1 (99.5%)
+2026-06-07 02:34:47,972 | INFO | History: 41 predictions, avg conf 82.5%
+2026-06-07 02:34:47,992 | INFO | Prediction: 1 (99.5%)
+2026-06-07 02:34:48,001 | INFO | History: 42 predictions, avg conf 82.9%
+2026-06-07 02:35:10,800 | INFO | Prediction: 9 (68.9%)
+2026-06-07 02:35:12,545 | INFO | History: 43 predictions, avg conf 82.5%
+2026-06-07 02:35:12,894 | INFO | Prediction: 9 (68.9%)
+2026-06-07 02:35:12,901 | INFO | History: 44 predictions, avg conf 82.2%
+2026-06-07 02:35:37,395 | INFO | Prediction: 6 (100.0%)
+2026-06-07 02:35:39,186 | INFO | History: 45 predictions, avg conf 82.6%
+2026-06-07 02:35:39,207 | INFO | Prediction: 6 (100.0%)
+2026-06-07 02:35:39,215 | INFO | History: 46 predictions, avg conf 83.0%
+2026-06-07 02:35:43,103 | INFO | Prediction: 6 (100.0%)
+2026-06-07 02:35:43,112 | INFO | History: 47 predictions, avg conf 83.4%
+2026-06-07 02:35:49,501 | INFO | Prediction: 6 (88.1%)
+2026-06-07 02:35:49,511 | INFO | History: 48 predictions, avg conf 83.5%
+2026-06-07 02:35:57,537 | INFO | Prediction: 6 (67.0%)
+2026-06-07 02:35:59,334 | INFO | History: 49 predictions, avg conf 83.1%
+2026-06-07 02:35:59,696 | INFO | Prediction: 6 (67.0%)
+2026-06-07 02:35:59,705 | INFO | History: 50 predictions, avg conf 82.8%
+2026-06-07 02:36:10,609 | INFO | Prediction: 4 (99.8%)
+2026-06-07 02:36:12,290 | INFO | History: 51 predictions, avg conf 83.1%
+2026-06-07 02:36:32,762 | INFO | Prediction: 7 (99.8%)
+2026-06-07 02:36:32,778 | INFO | History: 52 predictions, avg conf 83.5%
+2026-06-07 02:36:32,882 | INFO | Prediction: 7 (99.8%)
+2026-06-07 02:36:34,671 | INFO | History: 53 predictions, avg conf 83.8%
+2026-06-07 02:36:39,699 | INFO | Prediction: 4 (97.1%)
+2026-06-07 02:36:39,711 | INFO | History: 54 predictions, avg conf 84.0%
+2026-06-07 02:36:50,744 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:36:50,754 | INFO | History: 55 predictions, avg conf 84.3%
+2026-06-07 02:36:57,663 | INFO | Prediction: 4 (66.7%)
+2026-06-07 02:36:59,366 | INFO | History: 56 predictions, avg conf 84.0%
+2026-06-07 02:37:00,065 | INFO | Prediction: 4 (66.7%)
+2026-06-07 02:37:00,075 | INFO | History: 57 predictions, avg conf 83.7%
+2026-06-07 02:37:01,757 | INFO | Prediction: 4 (66.7%)
+2026-06-07 02:37:03,444 | INFO | History: 58 predictions, avg conf 83.4%
+2026-06-07 02:37:21,491 | INFO | Prediction: 9 (40.3%)
+2026-06-07 02:37:21,505 | INFO | History: 59 predictions, avg conf 82.7%
+2026-06-07 02:37:41,339 | INFO | Prediction: 5 (99.5%)
+2026-06-07 02:37:43,085 | INFO | History: 60 predictions, avg conf 83.0%
+2026-06-07 02:37:43,104 | INFO | Prediction: 5 (99.5%)
+2026-06-07 02:37:43,113 | INFO | History: 61 predictions, avg conf 83.2%
+2026-06-07 02:37:57,644 | INFO | Prediction: 3 (99.5%)
+2026-06-07 02:37:59,390 | INFO | History: 62 predictions, avg conf 83.5%
+2026-06-07 02:37:59,903 | INFO | Prediction: 3 (99.5%)
+2026-06-07 02:37:59,914 | INFO | History: 63 predictions, avg conf 83.7%
+2026-06-07 02:38:53,968 | INFO | Prediction: 9 (99.7%)
+2026-06-07 02:38:55,716 | INFO | History: 64 predictions, avg conf 84.0%
+2026-06-07 02:38:55,738 | INFO | Prediction: 9 (99.7%)
+2026-06-07 02:38:55,746 | INFO | History: 65 predictions, avg conf 84.2%
+2026-06-07 02:38:59,756 | INFO | Prediction: 9 (64.3%)
+2026-06-07 02:39:01,498 | INFO | History: 66 predictions, avg conf 83.9%
+2026-06-07 02:39:01,552 | INFO | Prediction: 9 (64.3%)
+2026-06-07 02:39:01,559 | INFO | History: 67 predictions, avg conf 83.6%
+2026-06-07 02:39:06,276 | INFO | Prediction: 9 (64.3%)
+2026-06-07 02:39:06,286 | INFO | History: 68 predictions, avg conf 83.4%
+2026-06-07 02:39:55,784 | INFO | Prediction: 3 (100.0%)
+2026-06-07 02:39:57,556 | INFO | History: 69 predictions, avg conf 83.6%
+2026-06-07 02:39:57,576 | INFO | Prediction: 3 (100.0%)
+2026-06-07 02:39:57,587 | INFO | History: 70 predictions, avg conf 83.8%
+2026-06-07 02:40:03,498 | INFO | Prediction: 3 (100.0%)
+2026-06-07 02:40:05,185 | INFO | History: 71 predictions, avg conf 84.1%
+2026-06-07 02:40:05,594 | INFO | Prediction: 3 (100.0%)
+2026-06-07 02:40:05,605 | INFO | History: 72 predictions, avg conf 84.3%
+2026-06-07 02:40:33,831 | INFO | Prediction: 7 (96.2%)
+2026-06-07 02:40:35,627 | INFO | History: 73 predictions, avg conf 84.4%
+2026-06-07 02:40:35,649 | INFO | Prediction: 7 (96.2%)
+2026-06-07 02:40:35,660 | INFO | History: 74 predictions, avg conf 84.6%
+2026-06-07 02:41:15,522 | INFO | Prediction: 7 (96.2%)
+2026-06-07 02:41:17,313 | INFO | History: 75 predictions, avg conf 84.8%
+2026-06-07 02:41:29,906 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:41:29,915 | INFO | History: 76 predictions, avg conf 85.0%
+2026-06-07 02:42:24,926 | INFO | Prediction: 9 (89.9%)
+2026-06-07 02:42:26,672 | INFO | History: 77 predictions, avg conf 85.0%
+2026-06-07 02:42:26,698 | INFO | Prediction: 9 (89.9%)
+2026-06-07 02:42:26,707 | INFO | History: 78 predictions, avg conf 85.1%
+2026-06-07 02:42:31,393 | INFO | Prediction: 9 (89.9%)
+2026-06-07 02:42:31,403 | INFO | History: 79 predictions, avg conf 85.1%
+2026-06-07 02:42:46,241 | INFO | Prediction: 9 (89.9%)
+2026-06-07 02:42:46,255 | INFO | History: 80 predictions, avg conf 85.2%
+2026-06-07 02:42:54,721 | INFO | Application closed.
+2026-06-07 02:43:04,726 | INFO | Initializing hand detector...
+2026-06-07 02:43:04,781 | INFO | Loading MNIST digit classifier...
+2026-06-07 02:43:04,781 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-07 02:43:04,782 | INFO | Loading cached MNIST from dataset/
+2026-06-07 02:43:05,148 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-07 02:43:07,231 | INFO | Training set size: 68246 (with air-drawn augmentation)
+2026-06-07 02:43:07,275 | INFO | Training scikit-learn MLP...
+2026-06-07 02:45:17,002 | INFO | Training accuracy: 98.69%
+2026-06-07 02:45:17,015 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v4.joblib
+2026-06-07 02:45:24,721 | INFO | Application started (1280x672)
+2026-06-07 02:46:10,576 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-07 02:46:10,580 | INFO | Prediction: 4 (100.0%)
+2026-06-07 02:46:10,594 | INFO | History: 81 predictions, avg conf 85.4%
+2026-06-07 02:46:20,795 | INFO | Predict digit=7 conf=75.0% (raw=7)
+2026-06-07 02:46:20,800 | INFO | Prediction: 7 (75.0%)
+2026-06-07 02:46:22,742 | INFO | History: 82 predictions, avg conf 85.3%
+2026-06-07 02:46:22,793 | INFO | Predict digit=7 conf=75.0% (raw=7)
+2026-06-07 02:46:22,796 | INFO | Prediction: 7 (75.0%)
+2026-06-07 02:46:22,803 | INFO | History: 83 predictions, avg conf 85.1%
+2026-06-07 02:47:09,107 | INFO | Predict digit=8 conf=63.1% (raw=8)
+2026-06-07 02:47:09,109 | INFO | Prediction: 8 (63.1%)
+2026-06-07 02:47:10,796 | INFO | History: 84 predictions, avg conf 84.9%
+2026-06-07 02:47:10,815 | INFO | Predict digit=8 conf=63.1% (raw=8)
+2026-06-07 02:47:10,817 | INFO | Prediction: 8 (63.1%)
+2026-06-07 02:47:10,827 | INFO | History: 85 predictions, avg conf 84.6%
+2026-06-07 02:47:17,282 | INFO | Predict digit=8 conf=63.1% (raw=8)
+2026-06-07 02:47:17,286 | INFO | Prediction: 8 (63.1%)
+2026-06-07 02:47:17,297 | INFO | History: 86 predictions, avg conf 84.4%
+2026-06-07 02:47:23,058 | INFO | Predict digit=8 conf=63.1% (raw=8)
+2026-06-07 02:47:23,061 | INFO | Prediction: 8 (63.1%)
+2026-06-07 02:47:24,693 | INFO | History: 87 predictions, avg conf 84.1%
+2026-06-07 02:47:26,024 | INFO | Predict digit=8 conf=63.1% (raw=8)
+2026-06-07 02:47:26,027 | INFO | Prediction: 8 (63.1%)
+2026-06-07 02:47:26,035 | INFO | History: 88 predictions, avg conf 83.9%
+2026-06-07 02:47:36,576 | INFO | Predict digit=6 conf=97.6% (raw=6)
+2026-06-07 02:47:36,579 | INFO | Prediction: 6 (97.6%)
+2026-06-07 02:47:38,422 | INFO | History: 89 predictions, avg conf 84.0%
+2026-06-07 02:47:41,024 | INFO | Predict digit=6 conf=97.6% (raw=6)
+2026-06-07 02:47:41,027 | INFO | Prediction: 6 (97.6%)
+2026-06-07 02:47:42,812 | INFO | History: 90 predictions, avg conf 84.2%
+2026-06-07 02:47:57,102 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_07_02_47_57.png
+2026-06-07 02:47:57,638 | INFO | Predict digit=3 conf=57.4% (raw=3)
+2026-06-07 02:47:57,641 | INFO | Prediction: 3 (57.4%)
+2026-06-07 02:47:59,338 | INFO | History: 91 predictions, avg conf 83.9%
+2026-06-07 02:47:59,621 | INFO | Predict digit=2 conf=90.0% (raw=2)
+2026-06-07 02:47:59,623 | INFO | Prediction: 2 (90.0%)
+2026-06-07 02:47:59,631 | INFO | History: 92 predictions, avg conf 84.0%
+2026-06-07 02:48:03,916 | INFO | Predict digit=2 conf=86.8% (raw=2)
+2026-06-07 02:48:03,918 | INFO | Prediction: 2 (86.8%)
+2026-06-07 02:48:03,927 | INFO | History: 93 predictions, avg conf 84.0%
+2026-06-07 02:48:10,729 | INFO | Predict digit=1 conf=99.2% (raw=1)
+2026-06-07 02:48:10,732 | INFO | Prediction: 1 (99.2%)
+2026-06-07 02:48:12,417 | INFO | History: 94 predictions, avg conf 84.2%
+2026-06-07 02:48:13,231 | INFO | Predict digit=1 conf=99.2% (raw=1)
+2026-06-07 02:48:13,234 | INFO | Prediction: 1 (99.2%)
+2026-06-07 02:48:13,245 | INFO | History: 95 predictions, avg conf 84.3%
+2026-06-07 02:48:21,752 | INFO | Predict digit=7 conf=100.0% (raw=7)
+2026-06-07 02:48:21,755 | INFO | Prediction: 7 (100.0%)
+2026-06-07 02:48:23,546 | INFO | History: 96 predictions, avg conf 84.5%
+2026-06-07 02:48:24,191 | INFO | Predict digit=7 conf=100.0% (raw=7)
+2026-06-07 02:48:24,194 | INFO | Prediction: 7 (100.0%)
+2026-06-07 02:48:24,203 | INFO | History: 97 predictions, avg conf 84.6%
+2026-06-07 02:48:30,524 | INFO | Predict digit=7 conf=100.0% (raw=7)
+2026-06-07 02:48:30,527 | INFO | Prediction: 7 (100.0%)
+2026-06-07 02:48:32,311 | INFO | History: 98 predictions, avg conf 84.8%
+2026-06-07 02:48:47,263 | INFO | Predict digit=4 conf=98.0% (raw=4)
+2026-06-07 02:48:47,265 | INFO | Prediction: 4 (98.0%)
+2026-06-07 02:48:48,959 | INFO | History: 99 predictions, avg conf 84.9%
+2026-06-07 02:48:48,977 | INFO | Predict digit=4 conf=98.0% (raw=4)
+2026-06-07 02:48:48,981 | INFO | Prediction: 4 (98.0%)
+2026-06-07 02:48:48,991 | INFO | History: 100 predictions, avg conf 85.1%
+2026-06-07 02:49:13,470 | INFO | Predict digit=2 conf=96.6% (raw=2)
+2026-06-07 02:49:13,474 | INFO | Prediction: 2 (96.6%)
+2026-06-07 02:49:15,125 | INFO | History: 100 predictions, avg conf 85.0%
+2026-06-07 02:49:15,546 | INFO | Predict digit=2 conf=96.6% (raw=2)
+2026-06-07 02:49:15,549 | INFO | Prediction: 2 (96.6%)
+2026-06-07 02:49:15,561 | INFO | History: 100 predictions, avg conf 85.1%
+2026-06-07 02:49:38,161 | INFO | Predict digit=2 conf=55.2% (raw=2)
+2026-06-07 02:49:38,164 | INFO | Prediction: 2 (55.2%)
+2026-06-07 02:49:39,803 | INFO | History: 100 predictions, avg conf 84.7%
+2026-06-07 02:49:41,054 | INFO | Predict digit=2 conf=55.2% (raw=2)
+2026-06-07 02:49:41,057 | INFO | Prediction: 2 (55.2%)
+2026-06-07 02:49:41,065 | INFO | History: 100 predictions, avg conf 84.2%
+2026-06-07 02:49:48,305 | INFO | Predict digit=5 conf=87.2% (raw=5)
+2026-06-07 02:49:48,308 | INFO | Prediction: 5 (87.2%)
+2026-06-07 02:49:50,055 | INFO | History: 100 predictions, avg conf 84.2%
+2026-06-07 02:49:50,344 | INFO | Predict digit=5 conf=87.2% (raw=5)
+2026-06-07 02:49:50,347 | INFO | Prediction: 5 (87.2%)
+2026-06-07 02:49:50,355 | INFO | History: 100 predictions, avg conf 84.3%
+2026-06-07 02:49:59,688 | INFO | Predict digit=5 conf=87.2% (raw=5)
+2026-06-07 02:49:59,691 | INFO | Prediction: 5 (87.2%)
+2026-06-07 02:49:59,702 | INFO | History: 100 predictions, avg conf 84.2%
+2026-06-07 02:50:06,559 | INFO | Predict digit=9 conf=93.2% (raw=9)
+2026-06-07 02:50:06,562 | INFO | Prediction: 9 (93.2%)
+2026-06-07 02:50:08,296 | INFO | History: 100 predictions, avg conf 84.2%
+2026-06-07 02:50:08,694 | INFO | Predict digit=9 conf=93.2% (raw=9)
+2026-06-07 02:50:08,697 | INFO | Prediction: 9 (93.2%)
+2026-06-07 02:50:08,705 | INFO | History: 100 predictions, avg conf 84.4%
+2026-06-07 02:50:55,408 | INFO | Predict digit=9 conf=93.2% (raw=9)
+2026-06-07 02:50:55,411 | INFO | Prediction: 9 (93.2%)
+2026-06-07 02:50:55,425 | INFO | History: 100 predictions, avg conf 84.6%
+2026-06-07 02:51:02,095 | INFO | Predict digit=9 conf=99.9% (raw=9)
+2026-06-07 02:51:02,099 | INFO | Prediction: 9 (99.9%)
+2026-06-07 02:51:02,109 | INFO | History: 100 predictions, avg conf 84.6%
+2026-06-07 02:51:14,159 | INFO | Predict digit=9 conf=99.9% (raw=9)
+2026-06-07 02:51:14,162 | INFO | Prediction: 9 (99.9%)
+2026-06-07 02:51:14,173 | INFO | History: 100 predictions, avg conf 84.6%
+2026-06-07 02:51:24,310 | INFO | Predict digit=9 conf=99.9% (raw=9)
+2026-06-07 02:51:24,315 | INFO | Prediction: 9 (99.9%)
+2026-06-07 02:51:24,330 | INFO | History: 100 predictions, avg conf 85.0%
+2026-06-07 02:51:32,451 | INFO | Predict digit=4 conf=97.6% (raw=4)
+2026-06-07 02:51:32,457 | INFO | Prediction: 4 (97.6%)
+2026-06-07 02:51:32,468 | INFO | History: 100 predictions, avg conf 85.5%
+2026-06-07 02:51:54,990 | INFO | Predict digit=9 conf=74.1% (raw=9)
+2026-06-07 02:51:54,993 | INFO | Prediction: 9 (74.1%)
+2026-06-07 02:51:55,002 | INFO | History: 100 predictions, avg conf 85.2%
+2026-06-07 02:52:08,393 | INFO | Predict digit=9 conf=74.1% (raw=9)
+2026-06-07 02:52:08,396 | INFO | Prediction: 9 (74.1%)
+2026-06-07 02:52:08,405 | INFO | History: 100 predictions, avg conf 85.1%
+2026-06-07 02:52:52,616 | INFO | Predict digit=9 conf=75.2% (raw=9)
+2026-06-07 02:52:52,619 | INFO | Prediction: 9 (75.2%)
+2026-06-07 02:52:52,630 | INFO | History: 100 predictions, avg conf 85.4%
+2026-06-07 02:52:58,084 | INFO | Predict digit=9 conf=75.2% (raw=9)
+2026-06-07 02:52:58,087 | INFO | Prediction: 9 (75.2%)
+2026-06-07 02:52:58,097 | INFO | History: 100 predictions, avg conf 85.7%
+2026-06-07 02:53:11,887 | INFO | Predict digit=9 conf=56.0% (raw=9)
+2026-06-07 02:53:11,890 | INFO | Prediction: 9 (56.0%)
+2026-06-07 02:53:11,901 | INFO | History: 100 predictions, avg conf 85.8%
+2026-06-07 02:54:03,166 | INFO | Predict digit=0 conf=94.8% (raw=0)
+2026-06-07 02:54:03,169 | INFO | Prediction: 0 (94.8%)
+2026-06-07 02:54:03,185 | INFO | History: 100 predictions, avg conf 86.2%
+2026-06-07 02:54:27,955 | INFO | Predict digit=7 conf=99.8% (raw=7)
+2026-06-07 02:54:27,958 | INFO | Prediction: 7 (99.8%)
+2026-06-07 02:54:29,766 | INFO | History: 100 predictions, avg conf 86.8%
+2026-06-07 02:54:30,968 | INFO | Predict digit=7 conf=99.8% (raw=7)
+2026-06-07 02:54:30,972 | INFO | Prediction: 7 (99.8%)
+2026-06-07 02:54:30,985 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-07 02:57:23,730 | INFO | Application closed.
+2026-06-07 02:57:36,994 | INFO | Initializing hand detector...
+2026-06-07 02:57:37,045 | INFO | Loading MNIST digit classifier...
+2026-06-07 02:57:37,046 | INFO | Loading digit model from D:\6th sem\AI\project\models\mnist_digit_model_v4.joblib
+2026-06-07 02:57:43,141 | INFO | Application started (1280x672)
+2026-06-07 02:57:51,659 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:51,766 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_07_02_57_51.png
+2026-06-07 02:57:51,812 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:51,861 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:51,908 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:51,994 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,041 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,091 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,135 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,186 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,233 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,299 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,346 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,396 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,441 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,490 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:52,534 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 02:57:58,310 | INFO | Predict digit=9 conf=100.0% (raw=9)
+2026-06-07 02:57:58,312 | INFO | Prediction: 9 (100.0%)
+2026-06-07 02:58:00,171 | INFO | History: 100 predictions, avg conf 87.5%
+2026-06-07 02:58:00,779 | INFO | Predict digit=9 conf=100.0% (raw=9)
+2026-06-07 02:58:00,782 | INFO | Prediction: 9 (100.0%)
+2026-06-07 02:58:00,790 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 02:58:09,603 | INFO | Predict digit=6 conf=95.4% (raw=6)
+2026-06-07 02:58:09,606 | INFO | Prediction: 6 (95.4%)
+2026-06-07 02:58:11,406 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-07 02:58:11,668 | INFO | Predict digit=6 conf=95.4% (raw=6)
+2026-06-07 02:58:11,671 | INFO | Prediction: 6 (95.4%)
+2026-06-07 02:58:11,679 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-07 02:58:20,797 | INFO | Predict digit=7 conf=99.9% (raw=7)
+2026-06-07 02:58:20,800 | INFO | Prediction: 7 (99.9%)
+2026-06-07 02:58:22,604 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-07 02:58:23,006 | INFO | Predict digit=7 conf=99.9% (raw=7)
+2026-06-07 02:58:23,009 | INFO | Prediction: 7 (99.9%)
+2026-06-07 02:58:23,017 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-07 02:58:25,709 | INFO | Predict digit=7 conf=99.9% (raw=7)
+2026-06-07 02:58:25,711 | INFO | Prediction: 7 (99.9%)
+2026-06-07 02:58:27,500 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-07 02:58:42,732 | INFO | Predict digit=2 conf=98.5% (raw=2)
+2026-06-07 02:58:42,735 | INFO | Prediction: 2 (98.5%)
+2026-06-07 02:58:44,386 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 02:58:44,825 | INFO | Predict digit=2 conf=98.5% (raw=2)
+2026-06-07 02:58:44,829 | INFO | Prediction: 2 (98.5%)
+2026-06-07 02:58:44,837 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 02:59:01,317 | INFO | Predict digit=7 conf=97.9% (raw=7)
+2026-06-07 02:59:01,321 | INFO | Prediction: 7 (97.9%)
+2026-06-07 02:59:03,119 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 02:59:03,140 | INFO | Predict digit=7 conf=97.9% (raw=7)
+2026-06-07 02:59:03,143 | INFO | Prediction: 7 (97.9%)
+2026-06-07 02:59:03,150 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 02:59:18,027 | INFO | Predict digit=8 conf=60.0% (raw=8)
+2026-06-07 02:59:18,030 | INFO | Prediction: 8 (60.0%)
+2026-06-07 02:59:19,674 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-07 02:59:19,713 | INFO | Predict digit=8 conf=60.0% (raw=8)
+2026-06-07 02:59:19,716 | INFO | Prediction: 8 (60.0%)
+2026-06-07 02:59:19,725 | INFO | History: 100 predictions, avg conf 86.9%
+2026-06-07 02:59:36,595 | INFO | Rejected non-digit shape: Triangle detected - draw 0-9 only.
+2026-06-07 02:59:46,742 | INFO | Predict digit=2 conf=98.3% (raw=2)
+2026-06-07 02:59:46,745 | INFO | Prediction: 2 (98.3%)
+2026-06-07 02:59:48,403 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-07 02:59:49,032 | INFO | Predict digit=2 conf=98.3% (raw=2)
+2026-06-07 02:59:49,036 | INFO | Prediction: 2 (98.3%)
+2026-06-07 02:59:49,045 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 02:59:57,217 | INFO | Predict digit=3 conf=87.3% (raw=3)
+2026-06-07 02:59:57,220 | INFO | Prediction: 3 (87.3%)
+2026-06-07 02:59:58,916 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-07 02:59:59,634 | INFO | Predict digit=3 conf=87.3% (raw=3)
+2026-06-07 02:59:59,637 | INFO | Prediction: 3 (87.3%)
+2026-06-07 02:59:59,646 | INFO | History: 100 predictions, avg conf 87.9%
+2026-06-07 03:00:07,832 | INFO | Predict digit=7 conf=93.7% (raw=7)
+2026-06-07 03:00:07,835 | INFO | Prediction: 7 (93.7%)
+2026-06-07 03:00:09,633 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-07 03:00:12,678 | INFO | Predict digit=7 conf=93.7% (raw=7)
+2026-06-07 03:00:12,682 | INFO | Prediction: 7 (93.7%)
+2026-06-07 03:00:12,694 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-07 03:00:59,721 | INFO | Predict digit=7 conf=93.7% (raw=7)
+2026-06-07 03:00:59,729 | INFO | Prediction: 7 (93.7%)
+2026-06-07 03:01:01,617 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 03:01:21,229 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:01:23,577 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:01:25,663 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:02:18,077 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:02:20,634 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:02:21,310 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:02:44,930 | INFO | Predict digit=9 conf=84.8% (raw=9)
+2026-06-07 03:02:44,963 | INFO | Prediction: 9 (84.8%)
+2026-06-07 03:02:46,927 | INFO | History: 100 predictions, avg conf 87.9%
+2026-06-07 03:02:47,035 | INFO | Predict digit=9 conf=84.8% (raw=9)
+2026-06-07 03:02:47,055 | INFO | Prediction: 9 (84.8%)
+2026-06-07 03:02:47,082 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-07 03:03:11,680 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:03:13,480 | INFO | Rejected non-digit shape: Rectangle detected - draw 0-9 only.
+2026-06-07 03:03:39,775 | INFO | Predict digit=9 conf=52.6% (raw=9)
+2026-06-07 03:03:39,800 | INFO | Prediction: 9 (52.6%)
+2026-06-07 03:03:41,676 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-07 03:03:42,100 | INFO | Predict digit=9 conf=52.6% (raw=9)
+2026-06-07 03:03:42,131 | INFO | Prediction: 9 (52.6%)
+2026-06-07 03:03:42,154 | INFO | History: 100 predictions, avg conf 87.1%
+2026-06-07 03:03:58,922 | INFO | Predict digit=5 conf=93.5% (raw=5)
+2026-06-07 03:03:58,929 | INFO | Prediction: 5 (93.5%)
+2026-06-07 03:04:00,806 | INFO | History: 100 predictions, avg conf 87.0%
+2026-06-07 03:04:01,464 | INFO | Predict digit=5 conf=93.5% (raw=5)
+2026-06-07 03:04:01,485 | INFO | Prediction: 5 (93.5%)
+2026-06-07 03:04:01,500 | INFO | History: 100 predictions, avg conf 87.1%
+2026-06-07 03:04:13,722 | INFO | Predict digit=5 conf=93.5% (raw=5)
+2026-06-07 03:04:13,740 | INFO | Prediction: 5 (93.5%)
+2026-06-07 03:04:13,786 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-07 03:04:30,024 | INFO | Predict digit=2 conf=98.5% (raw=2)
+2026-06-07 03:04:30,066 | INFO | Prediction: 2 (98.5%)
+2026-06-07 03:04:31,868 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 03:04:32,181 | INFO | Predict digit=2 conf=98.5% (raw=2)
+2026-06-07 03:04:32,191 | INFO | Prediction: 2 (98.5%)
+2026-06-07 03:04:32,223 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-07 03:04:47,533 | INFO | Predict digit=2 conf=83.6% (raw=2)
+2026-06-07 03:04:47,553 | INFO | Prediction: 2 (83.6%)
+2026-06-07 03:04:49,336 | INFO | History: 100 predictions, avg conf 87.5%
+2026-06-07 03:04:49,528 | INFO | Predict digit=2 conf=83.6% (raw=2)
+2026-06-07 03:04:49,541 | INFO | Prediction: 2 (83.6%)
+2026-06-07 03:04:49,594 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-07 03:05:06,463 | INFO | Predict digit=2 conf=97.2% (raw=2)
+2026-06-07 03:05:06,479 | INFO | Prediction: 2 (97.2%)
+2026-06-07 03:05:08,255 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-07 03:05:08,367 | INFO | Predict digit=2 conf=97.2% (raw=2)
+2026-06-07 03:05:08,390 | INFO | Prediction: 2 (97.2%)
+2026-06-07 03:05:08,410 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-07 03:05:57,470 | INFO | Loading cached MNIST from dataset/
+2026-06-07 03:06:01,988 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-07 03:06:33,558 | INFO | Training set size: 72651 (with air-drawn augmentation)
+2026-06-07 03:06:33,943 | INFO | Training scikit-learn MLP...
+2026-06-07 03:09:34,924 | INFO | Predict digit=5 conf=93.5% (raw=5)
+2026-06-07 03:09:34,941 | INFO | Prediction: 5 (93.5%)
+2026-06-07 03:09:34,966 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-07 03:09:40,886 | INFO | Predict digit=5 conf=96.3% (raw=5)
+2026-06-07 03:09:40,935 | INFO | Prediction: 5 (96.3%)
+2026-06-07 03:09:41,022 | INFO | History: 100 predictions, avg conf 87.9%
+2026-06-07 03:10:08,072 | INFO | Predict digit=4 conf=99.5% (raw=4)
+2026-06-07 03:10:08,088 | INFO | Prediction: 4 (99.5%)
+2026-06-07 03:10:09,930 | INFO | History: 100 predictions, avg conf 88.2%
+2026-06-07 03:10:10,040 | INFO | Predict digit=4 conf=99.5% (raw=4)
+2026-06-07 03:10:10,055 | INFO | Prediction: 4 (99.5%)
+2026-06-07 03:10:10,119 | INFO | History: 100 predictions, avg conf 88.8%
+2026-06-07 03:10:26,986 | INFO | Predict digit=9 conf=63.3% (raw=9)
+2026-06-07 03:10:26,999 | INFO | Prediction: 9 (63.3%)
+2026-06-07 03:10:28,820 | INFO | History: 100 predictions, avg conf 88.4%
+2026-06-07 03:10:28,912 | INFO | Predict digit=9 conf=63.3% (raw=9)
+2026-06-07 03:10:28,928 | INFO | Prediction: 9 (63.3%)
+2026-06-07 03:10:28,949 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-07 03:10:45,818 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-07 03:10:45,835 | INFO | Prediction: 4 (100.0%)
+2026-06-07 03:10:47,647 | INFO | History: 100 predictions, avg conf 88.1%
+2026-06-07 03:10:47,852 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-07 03:10:47,861 | INFO | Prediction: 4 (100.0%)
+2026-06-07 03:10:47,880 | INFO | History: 100 predictions, avg conf 88.1%
+2026-06-07 03:10:59,597 | INFO | Predict digit=7 conf=49.4% (raw=7)
+2026-06-07 03:10:59,611 | INFO | Prediction: 7 (49.4%)
+2026-06-07 03:11:01,508 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-07 03:11:01,606 | INFO | Predict digit=7 conf=49.4% (raw=7)
+2026-06-07 03:11:01,621 | INFO | Prediction: 7 (49.4%)
+2026-06-07 03:11:01,645 | INFO | History: 100 predictions, avg conf 87.0%
+2026-06-07 03:11:17,944 | INFO | Predict digit=6 conf=94.7% (raw=6)
+2026-06-07 03:11:17,953 | INFO | Prediction: 6 (94.7%)
+2026-06-07 03:11:19,834 | INFO | History: 100 predictions, avg conf 87.4%
+2026-06-07 03:11:19,931 | INFO | Predict digit=6 conf=94.7% (raw=6)
+2026-06-07 03:11:19,949 | INFO | Prediction: 6 (94.7%)
+2026-06-07 03:11:19,977 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-07 03:11:49,579 | INFO | Predict digit=5 conf=60.1% (raw=5)
+2026-06-07 03:11:49,600 | INFO | Prediction: 5 (60.1%)
+2026-06-07 03:11:49,667 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-07 03:11:55,783 | INFO | Application closed.
+2026-06-07 03:12:25,324 | INFO | Initializing hand detector...
+2026-06-07 03:12:25,507 | INFO | Loading MNIST digit classifier...
+2026-06-07 03:12:25,508 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-07 03:12:25,510 | INFO | Loading cached MNIST from dataset/
+2026-06-07 03:12:26,775 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-07 03:12:35,484 | INFO | Training set size: 72651 (with air-drawn augmentation)
+2026-06-07 03:12:35,611 | INFO | Training scikit-learn MLP...
+2026-06-07 03:14:42,701 | INFO | Training accuracy: 97.32%
+2026-06-07 03:14:42,728 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v5.joblib
+2026-06-07 03:16:17,888 | INFO | Training accuracy: 97.32%
+2026-06-07 03:16:17,909 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v5.joblib
+2026-06-07 03:16:34,517 | INFO | Application started (1280x672)
+2026-06-07 03:16:56,325 | INFO | Predict digit=3 conf=97.8% (raw=3)
+2026-06-07 03:16:56,332 | INFO | Prediction: 3 (97.8%)
+2026-06-07 03:16:58,517 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-07 03:16:58,613 | INFO | Predict digit=3 conf=97.8% (raw=3)
+2026-06-07 03:16:58,621 | INFO | Prediction: 3 (97.8%)
+2026-06-07 03:16:58,648 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-07 03:17:11,207 | INFO | Predict digit=8 conf=29.2% (raw=9)
+2026-06-07 03:17:11,214 | INFO | Prediction: 8 (29.2%)
+2026-06-07 03:17:13,029 | INFO | History: 100 predictions, avg conf 86.9%
+2026-06-07 03:17:13,128 | INFO | Predict digit=8 conf=29.2% (raw=9)
+2026-06-07 03:17:13,134 | INFO | Prediction: 8 (29.2%)
+2026-06-07 03:17:13,157 | INFO | History: 100 predictions, avg conf 86.2%
+2026-06-07 03:17:27,946 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-07 03:17:27,953 | INFO | Prediction: 4 (100.0%)
+2026-06-07 03:17:29,763 | INFO | History: 100 predictions, avg conf 86.2%
+2026-06-07 03:17:29,983 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-07 03:17:29,989 | INFO | Prediction: 4 (100.0%)
+2026-06-07 03:17:30,011 | INFO | History: 100 predictions, avg conf 86.2%
+2026-06-07 03:17:47,639 | INFO | Predict digit=3 conf=67.6% (raw=3)
+2026-06-07 03:17:47,646 | INFO | Prediction: 3 (67.6%)
+2026-06-07 03:17:47,666 | INFO | History: 100 predictions, avg conf 85.9%
+2026-06-07 03:17:59,431 | INFO | Predict digit=3 conf=43.3% (raw=3)
+2026-06-07 03:17:59,450 | INFO | Prediction: 3 (43.3%)
+2026-06-07 03:18:01,252 | INFO | History: 100 predictions, avg conf 85.4%
+2026-06-07 03:18:01,353 | INFO | Predict digit=3 conf=43.3% (raw=3)
+2026-06-07 03:18:01,361 | INFO | Prediction: 3 (43.3%)
+2026-06-07 03:18:01,386 | INFO | History: 100 predictions, avg conf 84.9%
+2026-06-07 03:18:19,149 | INFO | Predict digit=9 conf=57.4% (raw=9)
+2026-06-07 03:18:19,157 | INFO | Prediction: 9 (57.4%)
+2026-06-07 03:18:21,013 | INFO | History: 100 predictions, avg conf 84.6%
+2026-06-07 03:18:21,121 | INFO | Predict digit=9 conf=57.4% (raw=9)
+2026-06-07 03:18:21,129 | INFO | Prediction: 9 (57.4%)
+2026-06-07 03:18:21,150 | INFO | History: 100 predictions, avg conf 84.3%
+2026-06-07 03:18:32,790 | INFO | Predict digit=7 conf=99.7% (raw=7)
+2026-06-07 03:18:32,796 | INFO | Prediction: 7 (99.7%)
+2026-06-07 03:18:34,704 | INFO | History: 100 predictions, avg conf 84.4%
+2026-06-07 03:18:34,809 | INFO | Predict digit=7 conf=99.7% (raw=7)
+2026-06-07 03:18:34,816 | INFO | Prediction: 7 (99.7%)
+2026-06-07 03:18:34,839 | INFO | History: 100 predictions, avg conf 84.4%
+2026-06-07 03:18:42,556 | INFO | Predict digit=5 conf=94.3% (raw=5)
+2026-06-07 03:18:42,572 | INFO | Prediction: 5 (94.3%)
+2026-06-07 03:18:44,413 | INFO | History: 100 predictions, avg conf 84.6%
+2026-06-07 03:18:44,682 | INFO | Predict digit=5 conf=94.3% (raw=5)
+2026-06-07 03:18:44,689 | INFO | Prediction: 5 (94.3%)
+2026-06-07 03:18:44,715 | INFO | History: 100 predictions, avg conf 84.7%
+2026-06-07 03:19:07,645 | INFO | Predict digit=4 conf=55.8% (raw=4)
+2026-06-07 03:19:07,651 | INFO | Prediction: 4 (55.8%)
+2026-06-07 03:19:09,504 | INFO | History: 100 predictions, avg conf 84.7%
+2026-06-07 03:19:10,098 | INFO | Predict digit=4 conf=55.8% (raw=4)
+2026-06-07 03:19:10,108 | INFO | Prediction: 4 (55.8%)
+2026-06-07 03:19:10,136 | INFO | History: 100 predictions, avg conf 84.6%
+2026-06-07 03:19:23,489 | INFO | Predict digit=4 conf=44.6% (raw=4)
+2026-06-07 03:19:23,495 | INFO | Prediction: 4 (44.6%)
+2026-06-07 03:19:23,525 | INFO | History: 100 predictions, avg conf 84.4%
+2026-06-07 03:19:33,137 | INFO | Predict digit=6 conf=47.6% (raw=6)
+2026-06-07 03:19:33,143 | INFO | Prediction: 6 (47.6%)
+2026-06-07 03:19:35,035 | INFO | History: 100 predictions, avg conf 84.3%
+2026-06-07 03:19:35,223 | INFO | Predict digit=6 conf=47.6% (raw=6)
+2026-06-07 03:19:35,229 | INFO | Prediction: 6 (47.6%)
+2026-06-07 03:19:35,255 | INFO | History: 100 predictions, avg conf 84.1%
+2026-06-07 03:19:48,196 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_07_03_19_48.png
+2026-06-07 03:19:48,816 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-07 03:19:48,828 | INFO | Prediction: 4 (100.0%)
+2026-06-07 03:19:48,847 | INFO | History: 100 predictions, avg conf 84.1%
+2026-06-07 03:19:58,114 | INFO | Predict digit=5 conf=99.3% (raw=5)
+2026-06-07 03:19:58,124 | INFO | Prediction: 5 (99.3%)
+2026-06-07 03:20:00,001 | INFO | History: 100 predictions, avg conf 84.1%
+2026-06-07 03:20:00,101 | INFO | Predict digit=5 conf=99.3% (raw=5)
+2026-06-07 03:20:00,108 | INFO | Prediction: 5 (99.3%)
+2026-06-07 03:20:00,136 | INFO | History: 100 predictions, avg conf 84.6%
+2026-06-07 03:20:14,038 | INFO | Predict digit=6 conf=99.9% (raw=6)
+2026-06-07 03:20:14,044 | INFO | Prediction: 6 (99.9%)
+2026-06-07 03:20:15,952 | INFO | History: 100 predictions, avg conf 84.7%
+2026-06-07 03:20:16,068 | INFO | Predict digit=6 conf=99.9% (raw=6)
+2026-06-07 03:20:16,075 | INFO | Prediction: 6 (99.9%)
+2026-06-07 03:20:16,100 | INFO | History: 100 predictions, avg conf 84.8%
+2026-06-07 03:20:36,151 | INFO | Predict digit=3 conf=59.5% (raw=3)
+2026-06-07 03:20:36,157 | INFO | Prediction: 3 (59.5%)
+2026-06-07 03:20:37,955 | INFO | History: 100 predictions, avg conf 84.4%
+2026-06-07 03:20:38,151 | INFO | Predict digit=3 conf=59.5% (raw=3)
+2026-06-07 03:20:38,157 | INFO | Prediction: 3 (59.5%)
+2026-06-07 03:20:38,179 | INFO | History: 100 predictions, avg conf 84.0%
+2026-06-07 03:20:55,128 | INFO | Predict digit=4 conf=99.4% (raw=4)
+2026-06-07 03:20:55,134 | INFO | Prediction: 4 (99.4%)
+2026-06-07 03:20:56,950 | INFO | History: 100 predictions, avg conf 84.0%
+2026-06-07 03:20:57,058 | INFO | Predict digit=4 conf=99.4% (raw=4)
+2026-06-07 03:20:57,064 | INFO | Prediction: 4 (99.4%)
+2026-06-07 03:20:57,088 | INFO | History: 100 predictions, avg conf 84.0%
+2026-06-07 03:21:10,934 | INFO | Predict digit=2 conf=98.5% (raw=2)
+2026-06-07 03:21:10,940 | INFO | Prediction: 2 (98.5%)
+2026-06-07 03:21:12,723 | INFO | History: 100 predictions, avg conf 84.0%
+2026-06-07 03:21:12,827 | INFO | Predict digit=2 conf=98.5% (raw=2)
+2026-06-07 03:21:12,835 | INFO | Prediction: 2 (98.5%)
+2026-06-07 03:21:12,859 | INFO | History: 100 predictions, avg conf 84.0%
+2026-06-07 03:21:37,674 | INFO | Predict digit=1 conf=90.6% (raw=1)
+2026-06-07 03:21:37,681 | INFO | Prediction: 1 (90.6%)
+2026-06-07 03:21:39,501 | INFO | History: 100 predictions, avg conf 83.9%
+2026-06-07 03:21:39,706 | INFO | Predict digit=1 conf=90.6% (raw=1)
+2026-06-07 03:21:39,714 | INFO | Prediction: 1 (90.6%)
+2026-06-07 03:21:39,741 | INFO | History: 100 predictions, avg conf 83.8%
+2026-06-07 03:21:48,959 | INFO | Predict digit=1 conf=90.6% (raw=1)
+2026-06-07 03:21:48,966 | INFO | Prediction: 1 (90.6%)
+2026-06-07 03:21:49,004 | INFO | History: 100 predictions, avg conf 83.8%
+2026-06-07 03:22:09,431 | INFO | Application closed.
+2026-06-08 11:58:38,023 | INFO | Initializing hand detector...
+2026-06-08 11:58:38,646 | INFO | Loading MNIST digit classifier...
+2026-06-08 11:58:38,649 | INFO | Loading digit model from D:\6th sem\AI\project\models\mnist_digit_model_v5.joblib
+2026-06-08 11:58:55,088 | INFO | Application started (1280x672)
+2026-06-08 12:01:45,791 | INFO | Predict digit=9 conf=78.4% (raw=9)
+2026-06-08 12:01:45,839 | INFO | Prediction: 9 (78.4%)
+2026-06-08 12:01:45,872 | INFO | History: 100 predictions, avg conf 84.0%
+2026-06-08 12:02:07,593 | INFO | Predict digit=5 conf=92.5% (raw=5)
+2026-06-08 12:02:07,601 | INFO | Prediction: 5 (92.5%)
+2026-06-08 12:02:07,644 | INFO | History: 100 predictions, avg conf 84.4%
+2026-06-08 12:02:38,964 | INFO | Predict digit=6 conf=65.8% (raw=6)
+2026-06-08 12:02:38,974 | INFO | Prediction: 6 (65.8%)
+2026-06-08 12:02:39,027 | INFO | History: 100 predictions, avg conf 84.2%
+2026-06-08 12:02:57,640 | INFO | Predict digit=4 conf=47.0% (raw=4)
+2026-06-08 12:02:57,651 | INFO | Prediction: 4 (47.0%)
+2026-06-08 12:02:57,684 | INFO | History: 100 predictions, avg conf 83.8%
+2026-06-08 12:03:39,013 | INFO | Predict digit=3 conf=26.3% (raw=3)
+2026-06-08 12:03:39,018 | INFO | Prediction: 3 (26.3%)
+2026-06-08 12:03:39,049 | INFO | History: 100 predictions, avg conf 83.2%
+2026-06-08 12:03:51,224 | INFO | Predict digit=3 conf=59.0% (raw=3)
+2026-06-08 12:03:51,230 | INFO | Prediction: 3 (59.0%)
+2026-06-08 12:03:51,259 | INFO | History: 100 predictions, avg conf 82.8%
+2026-06-08 12:04:04,109 | INFO | Rejected non-digit shape: Line detected - draw 0-9 only.
+2026-06-08 12:04:18,125 | INFO | Rejected non-digit shape: Too small - draw a full digit (0-9).
+2026-06-08 12:04:21,089 | INFO | Rejected non-digit shape: Too small - draw a full digit (0-9).
+2026-06-08 12:04:39,660 | INFO | Predict digit=1 conf=52.7% (raw=1)
+2026-06-08 12:04:39,671 | INFO | Prediction: 1 (52.7%)
+2026-06-08 12:04:39,693 | INFO | History: 100 predictions, avg conf 82.4%
+2026-06-08 12:04:39,777 | INFO | Predict digit=1 conf=52.7% (raw=1)
+2026-06-08 12:04:39,783 | INFO | Prediction: 1 (52.7%)
+2026-06-08 12:04:42,982 | INFO | History: 100 predictions, avg conf 82.0%
+2026-06-08 12:04:55,651 | INFO | Predict digit=2 conf=100.0% (raw=2)
+2026-06-08 12:04:55,658 | INFO | Prediction: 2 (100.0%)
+2026-06-08 12:04:58,012 | INFO | History: 100 predictions, avg conf 82.0%
+2026-06-08 12:04:58,109 | INFO | Predict digit=2 conf=100.0% (raw=2)
+2026-06-08 12:04:58,116 | INFO | Prediction: 2 (100.0%)
+2026-06-08 12:04:58,139 | INFO | History: 100 predictions, avg conf 82.0%
+2026-06-08 12:05:19,605 | INFO | Predict digit=7 conf=95.5% (raw=7)
+2026-06-08 12:05:19,613 | INFO | Prediction: 7 (95.5%)
+2026-06-08 12:05:22,158 | INFO | History: 100 predictions, avg conf 82.0%
+2026-06-08 12:05:22,259 | INFO | Predict digit=7 conf=95.5% (raw=7)
+2026-06-08 12:05:22,272 | INFO | Prediction: 7 (95.5%)
+2026-06-08 12:05:22,294 | INFO | History: 100 predictions, avg conf 81.9%
+2026-06-08 12:09:57,634 | INFO | Predict digit=7 conf=95.5% (raw=7)
+2026-06-08 12:09:57,642 | INFO | Prediction: 7 (95.5%)
+2026-06-08 12:09:57,687 | INFO | History: 100 predictions, avg conf 82.2%
+2026-06-08 12:11:08,828 | INFO | Application closed.
+2026-06-14 00:11:09,157 | INFO | Initializing hand detector...
+2026-06-14 00:11:09,405 | INFO | Loading MNIST digit classifier...
+2026-06-14 00:11:09,406 | INFO | Loading digit model from D:\6th sem\AI\project\models\mnist_digit_model_v5.joblib
+2026-06-14 00:11:16,642 | INFO | Application started (1280x672)
+2026-06-14 00:12:07,278 | INFO | Predict digit=1 conf=53.1% (raw=1)
+2026-06-14 00:12:07,281 | INFO | Prediction: 1 (53.1%)
+2026-06-14 00:12:09,396 | INFO | History: 100 predictions, avg conf 81.9%
+2026-06-14 00:12:09,966 | INFO | Predict digit=1 conf=53.1% (raw=1)
+2026-06-14 00:12:09,970 | INFO | Prediction: 1 (53.1%)
+2026-06-14 00:12:09,981 | INFO | History: 100 predictions, avg conf 81.7%
+2026-06-14 00:12:14,914 | INFO | Predict digit=1 conf=53.1% (raw=1)
+2026-06-14 00:12:14,917 | INFO | Prediction: 1 (53.1%)
+2026-06-14 00:12:14,926 | INFO | History: 100 predictions, avg conf 81.5%
+2026-06-14 00:12:31,137 | INFO | Predict digit=7 conf=64.1% (raw=7)
+2026-06-14 00:12:31,152 | INFO | Prediction: 7 (64.1%)
+2026-06-14 00:12:32,960 | INFO | History: 100 predictions, avg conf 81.6%
+2026-06-14 00:12:33,008 | INFO | Predict digit=7 conf=64.1% (raw=7)
+2026-06-14 00:12:33,011 | INFO | Prediction: 7 (64.1%)
+2026-06-14 00:12:33,019 | INFO | History: 100 predictions, avg conf 81.3%
+2026-06-14 00:12:39,827 | INFO | Predict digit=7 conf=64.1% (raw=7)
+2026-06-14 00:12:39,831 | INFO | Prediction: 7 (64.1%)
+2026-06-14 00:12:41,622 | INFO | History: 100 predictions, avg conf 80.9%
+2026-06-14 00:12:55,347 | INFO | Predict digit=2 conf=69.3% (raw=2)
+2026-06-14 00:12:55,350 | INFO | Prediction: 2 (69.3%)
+2026-06-14 00:12:56,995 | INFO | History: 100 predictions, avg conf 80.6%
+2026-06-14 00:12:57,372 | INFO | Predict digit=2 conf=69.3% (raw=2)
+2026-06-14 00:12:57,375 | INFO | Prediction: 2 (69.3%)
+2026-06-14 00:12:57,386 | INFO | History: 100 predictions, avg conf 80.3%
+2026-06-14 00:13:16,881 | INFO | Predict digit=4 conf=98.6% (raw=4)
+2026-06-14 00:13:16,900 | INFO | Prediction: 4 (98.6%)
+2026-06-14 00:13:18,840 | INFO | History: 100 predictions, avg conf 80.3%
+2026-06-14 00:13:19,222 | INFO | Predict digit=4 conf=98.6% (raw=4)
+2026-06-14 00:13:19,228 | INFO | Prediction: 4 (98.6%)
+2026-06-14 00:13:19,241 | INFO | History: 100 predictions, avg conf 80.3%
+2026-06-14 00:13:37,183 | INFO | Predict digit=9 conf=43.4% (raw=9)
+2026-06-14 00:13:37,186 | INFO | Prediction: 9 (43.4%)
+2026-06-14 00:13:38,935 | INFO | History: 100 predictions, avg conf 79.8%
+2026-06-14 00:13:39,369 | INFO | Predict digit=9 conf=43.4% (raw=9)
+2026-06-14 00:13:39,372 | INFO | Prediction: 9 (43.4%)
+2026-06-14 00:13:39,381 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 00:14:08,383 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 00:14:08,389 | INFO | Prediction: 4 (100.0%)
+2026-06-14 00:14:10,091 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 00:14:10,134 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 00:14:10,141 | INFO | Prediction: 4 (100.0%)
+2026-06-14 00:14:10,151 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 00:15:38,769 | INFO | Predict digit=3 conf=99.0% (raw=3)
+2026-06-14 00:15:38,777 | INFO | Prediction: 3 (99.0%)
+2026-06-14 00:15:40,523 | INFO | History: 100 predictions, avg conf 79.3%
+2026-06-14 00:15:40,620 | INFO | Predict digit=3 conf=99.0% (raw=3)
+2026-06-14 00:15:40,627 | INFO | Prediction: 3 (99.0%)
+2026-06-14 00:15:40,644 | INFO | History: 100 predictions, avg conf 79.3%
+2026-06-14 00:15:52,509 | INFO | Predict digit=5 conf=88.6% (raw=5)
+2026-06-14 00:15:52,513 | INFO | Prediction: 5 (88.6%)
+2026-06-14 00:15:54,314 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 00:15:54,454 | INFO | Predict digit=5 conf=88.6% (raw=5)
+2026-06-14 00:15:54,461 | INFO | Prediction: 5 (88.6%)
+2026-06-14 00:15:54,481 | INFO | History: 100 predictions, avg conf 79.1%
+2026-06-14 00:16:03,208 | INFO | Predict digit=4 conf=89.2% (raw=4)
+2026-06-14 00:16:03,212 | INFO | Prediction: 4 (89.2%)
+2026-06-14 00:16:04,948 | INFO | History: 100 predictions, avg conf 79.4%
+2026-06-14 00:16:05,191 | INFO | Predict digit=4 conf=89.2% (raw=4)
+2026-06-14 00:16:05,198 | INFO | Prediction: 4 (89.2%)
+2026-06-14 00:16:05,224 | INFO | History: 100 predictions, avg conf 79.7%
+2026-06-14 00:16:46,567 | INFO | Predict digit=4 conf=55.1% (raw=4)
+2026-06-14 00:16:46,576 | INFO | Prediction: 4 (55.1%)
+2026-06-14 00:16:48,331 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 00:16:48,846 | INFO | Predict digit=4 conf=55.1% (raw=4)
+2026-06-14 00:16:48,855 | INFO | Prediction: 4 (55.1%)
+2026-06-14 00:16:48,872 | INFO | History: 100 predictions, avg conf 78.8%
+2026-06-14 00:17:01,034 | INFO | Predict digit=6 conf=99.1% (raw=6)
+2026-06-14 00:17:01,040 | INFO | Prediction: 6 (99.1%)
+2026-06-14 00:17:02,901 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 00:17:03,002 | INFO | Predict digit=6 conf=99.1% (raw=6)
+2026-06-14 00:17:03,009 | INFO | Prediction: 6 (99.1%)
+2026-06-14 00:17:03,025 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 00:17:28,210 | INFO | Predict digit=6 conf=88.2% (raw=6)
+2026-06-14 00:17:28,216 | INFO | Prediction: 6 (88.2%)
+2026-06-14 00:17:30,067 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 00:17:30,119 | INFO | Predict digit=6 conf=88.2% (raw=6)
+2026-06-14 00:17:30,130 | INFO | Prediction: 6 (88.2%)
+2026-06-14 00:17:30,151 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 00:17:43,342 | INFO | Predict digit=6 conf=95.2% (raw=6)
+2026-06-14 00:17:43,350 | INFO | Prediction: 6 (95.2%)
+2026-06-14 00:17:45,151 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 00:17:45,203 | INFO | Predict digit=6 conf=95.2% (raw=6)
+2026-06-14 00:17:45,214 | INFO | Prediction: 6 (95.2%)
+2026-06-14 00:17:45,262 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 00:17:59,628 | INFO | Predict digit=7 conf=97.0% (raw=7)
+2026-06-14 00:17:59,632 | INFO | Prediction: 7 (97.0%)
+2026-06-14 00:18:01,429 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 00:18:02,058 | INFO | Predict digit=7 conf=97.0% (raw=7)
+2026-06-14 00:18:02,069 | INFO | Prediction: 7 (97.0%)
+2026-06-14 00:18:02,084 | INFO | History: 100 predictions, avg conf 79.6%
+2026-06-14 00:18:13,320 | INFO | Predict digit=8 conf=61.9% (raw=8)
+2026-06-14 00:18:13,328 | INFO | Prediction: 8 (61.9%)
+2026-06-14 00:18:15,033 | INFO | History: 100 predictions, avg conf 79.7%
+2026-06-14 00:18:15,707 | INFO | Predict digit=8 conf=61.9% (raw=8)
+2026-06-14 00:18:15,713 | INFO | Prediction: 8 (61.9%)
+2026-06-14 00:18:15,726 | INFO | History: 100 predictions, avg conf 79.4%
+2026-06-14 00:18:25,266 | INFO | Predict digit=4 conf=99.4% (raw=4)
+2026-06-14 00:18:25,269 | INFO | Prediction: 4 (99.4%)
+2026-06-14 00:18:26,975 | INFO | History: 100 predictions, avg conf 79.4%
+2026-06-14 00:18:27,402 | INFO | Predict digit=4 conf=99.4% (raw=4)
+2026-06-14 00:18:27,407 | INFO | Prediction: 4 (99.4%)
+2026-06-14 00:18:27,421 | INFO | History: 100 predictions, avg conf 79.5%
+2026-06-14 00:18:47,488 | INFO | Predict digit=4 conf=99.9% (raw=4)
+2026-06-14 00:18:47,492 | INFO | Prediction: 4 (99.9%)
+2026-06-14 00:18:49,185 | INFO | History: 100 predictions, avg conf 79.5%
+2026-06-14 00:18:49,725 | INFO | Predict digit=4 conf=99.9% (raw=4)
+2026-06-14 00:18:49,728 | INFO | Prediction: 4 (99.9%)
+2026-06-14 00:18:49,740 | INFO | History: 100 predictions, avg conf 79.5%
+2026-06-14 00:19:00,252 | INFO | Predict digit=0 conf=53.9% (raw=0)
+2026-06-14 00:19:00,255 | INFO | Prediction: 0 (53.9%)
+2026-06-14 00:19:02,037 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 00:19:02,441 | INFO | Predict digit=0 conf=53.9% (raw=0)
+2026-06-14 00:19:02,444 | INFO | Prediction: 0 (53.9%)
+2026-06-14 00:19:02,452 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 00:19:15,673 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 00:19:15,677 | INFO | Prediction: 4 (100.0%)
+2026-06-14 00:19:17,366 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 00:19:17,701 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 00:19:17,704 | INFO | Prediction: 4 (100.0%)
+2026-06-14 00:19:17,713 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 00:19:36,491 | INFO | Predict digit=6 conf=74.3% (raw=6)
+2026-06-14 00:19:36,494 | INFO | Prediction: 6 (74.3%)
+2026-06-14 00:19:38,291 | INFO | History: 100 predictions, avg conf 78.8%
+2026-06-14 00:19:38,791 | INFO | Predict digit=6 conf=74.3% (raw=6)
+2026-06-14 00:19:38,802 | INFO | Prediction: 6 (74.3%)
+2026-06-14 00:19:38,822 | INFO | History: 100 predictions, avg conf 78.6%
+2026-06-14 00:19:56,646 | INFO | Predict digit=9 conf=55.3% (raw=9)
+2026-06-14 00:19:56,652 | INFO | Prediction: 9 (55.3%)
+2026-06-14 00:19:58,390 | INFO | History: 100 predictions, avg conf 78.1%
+2026-06-14 00:19:58,567 | INFO | Predict digit=9 conf=55.3% (raw=9)
+2026-06-14 00:19:58,570 | INFO | Prediction: 9 (55.3%)
+2026-06-14 00:19:58,578 | INFO | History: 100 predictions, avg conf 77.7%
+2026-06-14 00:20:10,676 | INFO | Predict digit=4 conf=99.6% (raw=4)
+2026-06-14 00:20:10,679 | INFO | Prediction: 4 (99.6%)
+2026-06-14 00:20:12,374 | INFO | History: 100 predictions, avg conf 78.0%
+2026-06-14 00:20:12,714 | INFO | Predict digit=4 conf=99.6% (raw=4)
+2026-06-14 00:20:12,717 | INFO | Prediction: 4 (99.6%)
+2026-06-14 00:20:12,728 | INFO | History: 100 predictions, avg conf 78.4%
+2026-06-14 00:20:20,960 | INFO | Predict digit=9 conf=46.0% (raw=9)
+2026-06-14 00:20:20,964 | INFO | Prediction: 9 (46.0%)
+2026-06-14 00:20:22,709 | INFO | History: 100 predictions, avg conf 77.9%
+2026-06-14 00:20:22,990 | INFO | Predict digit=9 conf=46.0% (raw=9)
+2026-06-14 00:20:22,992 | INFO | Prediction: 9 (46.0%)
+2026-06-14 00:20:23,000 | INFO | History: 100 predictions, avg conf 77.3%
+2026-06-14 00:20:42,435 | INFO | Predict digit=4 conf=85.0% (raw=4)
+2026-06-14 00:20:42,438 | INFO | Prediction: 4 (85.0%)
+2026-06-14 00:20:44,133 | INFO | History: 100 predictions, avg conf 77.7%
+2026-06-14 00:20:44,624 | INFO | Predict digit=4 conf=85.0% (raw=4)
+2026-06-14 00:20:44,627 | INFO | Prediction: 4 (85.0%)
+2026-06-14 00:20:44,635 | INFO | History: 100 predictions, avg conf 78.0%
+2026-06-14 00:20:53,679 | INFO | Predict digit=4 conf=72.7% (raw=4)
+2026-06-14 00:20:53,685 | INFO | Prediction: 4 (72.7%)
+2026-06-14 00:20:55,375 | INFO | History: 100 predictions, avg conf 77.8%
+2026-06-14 00:20:55,800 | INFO | Predict digit=4 conf=72.7% (raw=4)
+2026-06-14 00:20:55,803 | INFO | Prediction: 4 (72.7%)
+2026-06-14 00:20:55,811 | INFO | History: 100 predictions, avg conf 77.6%
+2026-06-14 00:23:25,135 | INFO | Application closed.
+2026-06-14 00:34:17,437 | INFO | Loading cached MNIST from dataset/
+2026-06-14 00:34:19,003 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-14 00:34:23,305 | INFO | Training set size: 81748 (with air-drawn augmentation)
+2026-06-14 00:34:23,372 | INFO | Training scikit-learn MLP...
+2026-06-14 00:34:56,108 | INFO | Initializing hand detector...
+2026-06-14 00:34:56,325 | INFO | Loading MNIST digit classifier...
+2026-06-14 00:34:56,326 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-14 00:34:56,327 | INFO | Loading cached MNIST from dataset/
+2026-06-14 00:34:57,233 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-14 00:35:01,808 | INFO | Training set size: 81748 (with air-drawn augmentation)
+2026-06-14 00:35:01,908 | INFO | Training scikit-learn MLP...
+2026-06-14 00:36:54,869 | INFO | Training accuracy: 97.92%
+2026-06-14 00:36:54,890 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v6.joblib
+2026-06-14 00:37:49,311 | INFO | Training accuracy: 97.92%
+2026-06-14 00:37:49,331 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v6.joblib
+2026-06-14 00:38:02,274 | INFO | Application started (1280x672)
+2026-06-14 00:54:28,127 | INFO | Predict digit=8 conf=51.5% (raw=8)
+2026-06-14 00:54:28,130 | INFO | Prediction: 8 (51.5%)
+2026-06-14 00:54:30,121 | INFO | History: 100 predictions, avg conf 77.5%
+2026-06-14 00:54:30,167 | INFO | Predict digit=8 conf=51.5% (raw=8)
+2026-06-14 00:54:30,170 | INFO | Prediction: 8 (51.5%)
+2026-06-14 00:54:30,177 | INFO | History: 100 predictions, avg conf 77.1%
+2026-06-14 00:54:38,427 | INFO | Predict digit=6 conf=99.6% (raw=6)
+2026-06-14 00:54:38,431 | INFO | Prediction: 6 (99.6%)
+2026-06-14 00:54:40,225 | INFO | History: 100 predictions, avg conf 77.1%
+2026-06-14 00:54:40,467 | INFO | Predict digit=6 conf=99.6% (raw=6)
+2026-06-14 00:54:40,472 | INFO | Prediction: 6 (99.6%)
+2026-06-14 00:54:40,478 | INFO | History: 100 predictions, avg conf 77.8%
+2026-06-14 01:00:14,174 | INFO | Initializing hand detector...
+2026-06-14 01:00:14,226 | INFO | Loading MNIST digit classifier...
+2026-06-14 01:00:14,227 | INFO | Loading digit model from D:\6th sem\AI\project\models\mnist_digit_model_v6.joblib
+2026-06-14 01:00:20,602 | INFO | Application started (1280x672)
+2026-06-14 01:02:02,720 | INFO | Predict digit=4 conf=99.8% (raw=4)
+2026-06-14 01:02:02,727 | INFO | Prediction: 4 (99.8%)
+2026-06-14 01:02:02,751 | INFO | History: 100 predictions, avg conf 78.5%
+2026-06-14 01:02:09,019 | INFO | Rejected non-digit shape: Line detected - draw 0-9 only.
+2026-06-14 01:02:24,913 | INFO | Predict digit=3 conf=86.6% (raw=3)
+2026-06-14 01:02:24,916 | INFO | Prediction: 3 (86.6%)
+2026-06-14 01:02:24,929 | INFO | History: 100 predictions, avg conf 78.4%
+2026-06-14 01:02:50,234 | INFO | Predict digit=3 conf=72.0% (raw=7)
+2026-06-14 01:02:50,237 | INFO | Prediction: 3 (72.0%)
+2026-06-14 01:02:52,078 | INFO | History: 100 predictions, avg conf 78.1%
+2026-06-14 01:02:52,632 | INFO | Predict digit=3 conf=72.0% (raw=7)
+2026-06-14 01:02:52,642 | INFO | Prediction: 3 (72.0%)
+2026-06-14 01:02:52,677 | INFO | History: 100 predictions, avg conf 78.1%
+2026-06-14 01:03:03,405 | INFO | Predict digit=2 conf=60.3% (raw=2)
+2026-06-14 01:03:03,408 | INFO | Prediction: 2 (60.3%)
+2026-06-14 01:03:05,069 | INFO | History: 100 predictions, avg conf 78.3%
+2026-06-14 01:03:05,507 | INFO | Predict digit=2 conf=60.3% (raw=2)
+2026-06-14 01:03:05,510 | INFO | Prediction: 2 (60.3%)
+2026-06-14 01:03:05,521 | INFO | History: 100 predictions, avg conf 78.5%
+2026-06-14 01:03:16,984 | INFO | Predict digit=3 conf=96.7% (raw=3)
+2026-06-14 01:03:16,990 | INFO | Prediction: 3 (96.7%)
+2026-06-14 01:03:18,760 | INFO | History: 100 predictions, avg conf 78.8%
+2026-06-14 01:03:19,032 | INFO | Predict digit=3 conf=96.7% (raw=3)
+2026-06-14 01:03:19,034 | INFO | Prediction: 3 (96.7%)
+2026-06-14 01:03:19,042 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 01:03:34,362 | INFO | Predict digit=4 conf=98.0% (raw=4)
+2026-06-14 01:03:34,366 | INFO | Prediction: 4 (98.0%)
+2026-06-14 01:03:36,066 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 01:03:36,226 | INFO | Predict digit=4 conf=98.0% (raw=4)
+2026-06-14 01:03:36,229 | INFO | Prediction: 4 (98.0%)
+2026-06-14 01:03:36,237 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 01:03:48,953 | INFO | Predict digit=5 conf=97.1% (raw=5)
+2026-06-14 01:03:48,958 | INFO | Prediction: 5 (97.1%)
+2026-06-14 01:03:50,715 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 01:03:50,798 | INFO | Predict digit=5 conf=97.1% (raw=5)
+2026-06-14 01:03:50,801 | INFO | Prediction: 5 (97.1%)
+2026-06-14 01:03:50,809 | INFO | History: 100 predictions, avg conf 79.3%
+2026-06-14 01:04:01,336 | INFO | Predict digit=7 conf=38.3% (raw=7)
+2026-06-14 01:04:01,339 | INFO | Prediction: 7 (38.3%)
+2026-06-14 01:04:03,130 | INFO | History: 100 predictions, avg conf 79.1%
+2026-06-14 01:04:03,320 | INFO | Predict digit=7 conf=38.3% (raw=7)
+2026-06-14 01:04:03,327 | INFO | Prediction: 7 (38.3%)
+2026-06-14 01:04:03,334 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 01:04:04,591 | INFO | Application closed.
+2026-06-14 01:09:28,754 | INFO | Initializing hand detector...
+2026-06-14 01:09:28,821 | INFO | Loading MNIST digit classifier...
+2026-06-14 01:09:28,821 | INFO | Loading digit model from D:\6th sem\AI\project\models\mnist_digit_model_v6.joblib
+2026-06-14 01:09:35,328 | INFO | Application started (1280x672)
+2026-06-14 01:09:57,775 | INFO | Predict digit=3 conf=42.9% (raw=3)
+2026-06-14 01:09:57,778 | INFO | Prediction: 3 (42.9%)
+2026-06-14 01:09:57,788 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 01:10:04,965 | INFO | Predict digit=9 conf=52.9% (raw=9)
+2026-06-14 01:10:04,968 | INFO | Prediction: 9 (52.9%)
+2026-06-14 01:10:06,828 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 01:10:07,501 | INFO | Predict digit=9 conf=52.9% (raw=9)
+2026-06-14 01:10:07,505 | INFO | Prediction: 9 (52.9%)
+2026-06-14 01:10:07,513 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 01:10:18,603 | INFO | Predict digit=4 conf=96.4% (raw=4)
+2026-06-14 01:10:18,607 | INFO | Prediction: 4 (96.4%)
+2026-06-14 01:10:20,291 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 01:10:20,578 | INFO | Predict digit=4 conf=96.4% (raw=4)
+2026-06-14 01:10:20,580 | INFO | Prediction: 4 (96.4%)
+2026-06-14 01:10:20,588 | INFO | History: 100 predictions, avg conf 78.9%
+2026-06-14 01:11:53,947 | INFO | Predict digit=4 conf=77.1% (raw=4)
+2026-06-14 01:11:53,950 | INFO | Prediction: 4 (77.1%)
+2026-06-14 01:11:55,635 | INFO | Test result expected=4 predicted=4 ok=True acc=100.0% (1/1)
+2026-06-14 01:11:55,644 | INFO | History: 100 predictions, avg conf 78.7%
+2026-06-14 01:12:14,959 | INFO | Predict digit=7 conf=98.6% (raw=7)
+2026-06-14 01:12:14,962 | INFO | Prediction: 7 (98.6%)
+2026-06-14 01:12:16,748 | INFO | Test result expected=4 predicted=7 ok=False acc=50.0% (1/2)
+2026-06-14 01:12:16,757 | INFO | History: 100 predictions, avg conf 78.7%
+2026-06-14 01:12:25,399 | INFO | Predict digit=7 conf=98.6% (raw=7)
+2026-06-14 01:12:25,402 | INFO | Prediction: 7 (98.6%)
+2026-06-14 01:12:25,411 | INFO | History: 100 predictions, avg conf 78.7%
+2026-06-14 01:12:39,961 | INFO | Predict digit=7 conf=90.9% (raw=7)
+2026-06-14 01:12:39,963 | INFO | Prediction: 7 (90.9%)
+2026-06-14 01:12:41,743 | INFO | Test result expected=7 predicted=7 ok=True acc=66.7% (2/3)
+2026-06-14 01:12:41,753 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 01:12:47,037 | INFO | Predict digit=7 conf=90.9% (raw=7)
+2026-06-14 01:12:47,040 | INFO | Prediction: 7 (90.9%)
+2026-06-14 01:12:47,051 | INFO | History: 100 predictions, avg conf 79.3%
+2026-06-14 01:12:59,740 | INFO | Predict digit=4 conf=75.0% (raw=6)
+2026-06-14 01:12:59,743 | INFO | Prediction: 4 (75.0%)
+2026-06-14 01:13:01,425 | INFO | Test result expected=6 predicted=4 ok=False acc=50.0% (2/4)
+2026-06-14 01:13:01,434 | INFO | History: 100 predictions, avg conf 79.1%
+2026-06-14 01:13:16,939 | INFO | Predict digit=6 conf=97.3% (raw=6)
+2026-06-14 01:13:16,944 | INFO | Prediction: 6 (97.3%)
+2026-06-14 01:13:18,734 | INFO | Test result expected=6 predicted=6 ok=True acc=60.0% (3/5)
+2026-06-14 01:13:18,743 | INFO | History: 100 predictions, avg conf 79.1%
+2026-06-14 01:15:23,689 | INFO | Predict digit=6 conf=97.3% (raw=6)
+2026-06-14 01:15:23,692 | INFO | Prediction: 6 (97.3%)
+2026-06-14 01:15:23,703 | INFO | History: 100 predictions, avg conf 79.0%
+2026-06-14 01:15:44,492 | INFO | Predict digit=6 conf=75.4% (raw=6)
+2026-06-14 01:15:44,495 | INFO | Prediction: 6 (75.4%)
+2026-06-14 01:15:46,306 | INFO | History: 100 predictions, avg conf 78.8%
+2026-06-14 01:15:46,348 | INFO | Predict digit=6 conf=75.4% (raw=6)
+2026-06-14 01:15:46,351 | INFO | Prediction: 6 (75.4%)
+2026-06-14 01:15:46,361 | INFO | History: 100 predictions, avg conf 78.7%
+2026-06-14 01:16:01,808 | INFO | Predict digit=0 conf=49.6% (raw=0)
+2026-06-14 01:16:01,811 | INFO | Prediction: 0 (49.6%)
+2026-06-14 01:16:03,599 | INFO | History: 100 predictions, avg conf 78.2%
+2026-06-14 01:16:03,708 | INFO | Predict digit=0 conf=49.6% (raw=0)
+2026-06-14 01:16:03,711 | INFO | Prediction: 0 (49.6%)
+2026-06-14 01:16:03,719 | INFO | History: 100 predictions, avg conf 77.8%
+2026-06-14 01:16:18,220 | INFO | Predict digit=4 conf=53.1% (raw=4)
+2026-06-14 01:16:18,223 | INFO | Prediction: 4 (53.1%)
+2026-06-14 01:16:19,912 | INFO | History: 100 predictions, avg conf 77.6%
+2026-06-14 01:16:20,139 | INFO | Predict digit=4 conf=53.1% (raw=4)
+2026-06-14 01:16:20,141 | INFO | Prediction: 4 (53.1%)
+2026-06-14 01:16:20,153 | INFO | History: 100 predictions, avg conf 77.2%
+2026-06-14 01:16:32,708 | INFO | Predict digit=3 conf=81.8% (raw=3)
+2026-06-14 01:16:32,711 | INFO | Prediction: 3 (81.8%)
+2026-06-14 01:16:34,408 | INFO | History: 100 predictions, avg conf 77.4%
+2026-06-14 01:16:34,486 | INFO | Predict digit=3 conf=81.8% (raw=3)
+2026-06-14 01:16:34,489 | INFO | Prediction: 3 (81.8%)
+2026-06-14 01:16:34,496 | INFO | History: 100 predictions, avg conf 77.7%
+2026-06-14 01:16:46,043 | INFO | Rejected non-digit shape: Line detected - draw 0-9 only.
+2026-06-14 01:16:47,852 | INFO | Rejected non-digit shape: Line detected - draw 0-9 only.
+2026-06-14 01:17:01,360 | INFO | Predict digit=1 conf=99.1% (raw=1)
+2026-06-14 01:17:01,363 | INFO | Prediction: 1 (99.1%)
+2026-06-14 01:17:03,067 | INFO | History: 100 predictions, avg conf 78.4%
+2026-06-14 01:17:03,444 | INFO | Predict digit=1 conf=99.1% (raw=1)
+2026-06-14 01:17:03,447 | INFO | Prediction: 1 (99.1%)
+2026-06-14 01:17:03,458 | INFO | History: 100 predictions, avg conf 78.8%
+2026-06-14 01:17:12,790 | INFO | Predict digit=0 conf=83.9% (raw=0)
+2026-06-14 01:17:12,793 | INFO | Prediction: 0 (83.9%)
+2026-06-14 01:17:14,585 | INFO | History: 100 predictions, avg conf 79.1%
+2026-06-14 01:17:14,891 | INFO | Predict digit=0 conf=83.9% (raw=0)
+2026-06-14 01:17:14,894 | INFO | Prediction: 0 (83.9%)
+2026-06-14 01:17:14,901 | INFO | History: 100 predictions, avg conf 79.5%
+2026-06-14 01:17:33,837 | INFO | Predict digit=2 conf=97.3% (raw=2)
+2026-06-14 01:17:33,840 | INFO | Prediction: 2 (97.3%)
+2026-06-14 01:17:35,487 | INFO | History: 100 predictions, avg conf 79.4%
+2026-06-14 01:17:35,866 | INFO | Predict digit=2 conf=97.3% (raw=2)
+2026-06-14 01:17:35,868 | INFO | Prediction: 2 (97.3%)
+2026-06-14 01:17:35,878 | INFO | History: 100 predictions, avg conf 79.4%
+2026-06-14 01:17:45,444 | INFO | Predict digit=3 conf=99.6% (raw=3)
+2026-06-14 01:17:45,446 | INFO | Prediction: 3 (99.6%)
+2026-06-14 01:17:47,143 | INFO | History: 100 predictions, avg conf 79.4%
+2026-06-14 01:17:47,318 | INFO | Predict digit=3 conf=99.6% (raw=3)
+2026-06-14 01:17:47,321 | INFO | Prediction: 3 (99.6%)
+2026-06-14 01:17:47,328 | INFO | History: 100 predictions, avg conf 79.5%
+2026-06-14 01:17:55,684 | INFO | Predict digit=4 conf=60.1% (raw=4)
+2026-06-14 01:17:55,687 | INFO | Prediction: 4 (60.1%)
+2026-06-14 01:17:57,381 | INFO | History: 100 predictions, avg conf 79.1%
+2026-06-14 01:17:58,040 | INFO | Predict digit=4 conf=60.1% (raw=4)
+2026-06-14 01:17:58,043 | INFO | Prediction: 4 (60.1%)
+2026-06-14 01:17:58,051 | INFO | History: 100 predictions, avg conf 79.2%
+2026-06-14 01:18:07,644 | INFO | Predict digit=5 conf=99.0% (raw=5)
+2026-06-14 01:18:07,649 | INFO | Prediction: 5 (99.0%)
+2026-06-14 01:18:09,394 | INFO | History: 100 predictions, avg conf 79.7%
+2026-06-14 01:18:10,229 | INFO | Predict digit=5 conf=99.0% (raw=5)
+2026-06-14 01:18:10,232 | INFO | Prediction: 5 (99.0%)
+2026-06-14 01:18:10,240 | INFO | History: 100 predictions, avg conf 80.1%
+2026-06-14 01:18:16,347 | INFO | Predict digit=5 conf=99.0% (raw=5)
+2026-06-14 01:18:16,350 | INFO | Prediction: 5 (99.0%)
+2026-06-14 01:18:18,100 | INFO | History: 100 predictions, avg conf 80.5%
+2026-06-14 01:18:19,220 | INFO | Predict digit=5 conf=99.0% (raw=5)
+2026-06-14 01:18:19,223 | INFO | Prediction: 5 (99.0%)
+2026-06-14 01:18:19,231 | INFO | History: 100 predictions, avg conf 80.8%
+2026-06-14 01:18:40,577 | INFO | Predict digit=6 conf=94.5% (raw=6)
+2026-06-14 01:18:40,581 | INFO | Prediction: 6 (94.5%)
+2026-06-14 01:18:42,374 | INFO | History: 100 predictions, avg conf 81.1%
+2026-06-14 01:18:42,953 | INFO | Predict digit=6 conf=94.5% (raw=6)
+2026-06-14 01:18:42,956 | INFO | Prediction: 6 (94.5%)
+2026-06-14 01:18:42,964 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:19:11,234 | INFO | Predict digit=7 conf=99.8% (raw=7)
+2026-06-14 01:19:11,237 | INFO | Prediction: 7 (99.8%)
+2026-06-14 01:19:13,024 | INFO | History: 100 predictions, avg conf 81.7%
+2026-06-14 01:19:13,452 | INFO | Predict digit=7 conf=99.8% (raw=7)
+2026-06-14 01:19:13,456 | INFO | Prediction: 7 (99.8%)
+2026-06-14 01:19:13,466 | INFO | History: 100 predictions, avg conf 81.7%
+2026-06-14 01:19:21,399 | INFO | Predict digit=3 conf=58.0% (raw=3)
+2026-06-14 01:19:21,402 | INFO | Prediction: 3 (58.0%)
+2026-06-14 01:19:23,102 | INFO | History: 100 predictions, avg conf 81.3%
+2026-06-14 01:19:24,056 | INFO | Predict digit=3 conf=58.0% (raw=3)
+2026-06-14 01:19:24,059 | INFO | Prediction: 3 (58.0%)
+2026-06-14 01:19:24,069 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:19:39,409 | INFO | Predict digit=6 conf=78.0% (raw=4)
+2026-06-14 01:19:39,412 | INFO | Prediction: 6 (78.0%)
+2026-06-14 01:19:41,210 | INFO | History: 100 predictions, avg conf 81.8%
+2026-06-14 01:19:41,555 | INFO | Predict digit=6 conf=78.0% (raw=4)
+2026-06-14 01:19:41,558 | INFO | Prediction: 6 (78.0%)
+2026-06-14 01:19:41,567 | INFO | History: 100 predictions, avg conf 81.6%
+2026-06-14 01:19:53,277 | INFO | Predict digit=3 conf=43.3% (raw=3)
+2026-06-14 01:19:53,280 | INFO | Prediction: 3 (43.3%)
+2026-06-14 01:19:54,976 | INFO | History: 100 predictions, avg conf 81.0%
+2026-06-14 01:19:55,192 | INFO | Predict digit=3 conf=43.3% (raw=3)
+2026-06-14 01:19:55,195 | INFO | Prediction: 3 (43.3%)
+2026-06-14 01:19:55,202 | INFO | History: 100 predictions, avg conf 80.4%
+2026-06-14 01:20:21,246 | INFO | Predict digit=9 conf=82.8% (raw=9)
+2026-06-14 01:20:21,249 | INFO | Prediction: 9 (82.8%)
+2026-06-14 01:20:22,993 | INFO | History: 100 predictions, avg conf 80.3%
+2026-06-14 01:20:23,154 | INFO | Predict digit=9 conf=82.8% (raw=9)
+2026-06-14 01:20:23,157 | INFO | Prediction: 9 (82.8%)
+2026-06-14 01:20:23,164 | INFO | History: 100 predictions, avg conf 80.2%
+2026-06-14 01:21:22,772 | INFO | Loading cached MNIST from dataset/
+2026-06-14 01:21:23,633 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-14 01:21:28,529 | INFO | Training set size: 83053 (with air-drawn augmentation)
+2026-06-14 01:21:28,622 | INFO | Training scikit-learn MLP...
+2026-06-14 01:22:17,618 | INFO | Application closed.
+2026-06-14 01:22:48,649 | INFO | Initializing hand detector...
+2026-06-14 01:22:48,917 | INFO | Loading MNIST digit classifier...
+2026-06-14 01:22:48,920 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-14 01:22:48,923 | INFO | Loading cached MNIST from dataset/
+2026-06-14 01:22:50,652 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-14 01:23:10,207 | INFO | Training set size: 83053 (with air-drawn augmentation)
+2026-06-14 01:23:10,457 | INFO | Training scikit-learn MLP...
+2026-06-14 01:29:19,648 | INFO | Training accuracy: 98.14%
+2026-06-14 01:29:19,680 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v7.joblib
+2026-06-14 01:32:20,902 | INFO | Training accuracy: 98.14%
+2026-06-14 01:32:20,946 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v7.joblib
+2026-06-14 01:32:48,044 | INFO | Application started (1280x672)
+2026-06-14 01:32:48,228 | INFO | Application closed.
+2026-06-14 01:33:12,566 | INFO | Initializing hand detector...
+2026-06-14 01:33:12,842 | INFO | Loading MNIST digit classifier...
+2026-06-14 01:33:12,845 | INFO | Loading digit model from D:\6th sem\AI\project\models\mnist_digit_model_v7.joblib
+2026-06-14 01:33:43,867 | INFO | Application started (1280x672)
+2026-06-14 01:33:58,017 | INFO | Predict digit=8 conf=94.0% (raw=8)
+2026-06-14 01:33:58,026 | INFO | Prediction: 8 (94.0%)
+2026-06-14 01:34:00,123 | INFO | History: 100 predictions, avg conf 80.3%
+2026-06-14 01:34:00,225 | INFO | Predict digit=8 conf=94.0% (raw=8)
+2026-06-14 01:34:00,251 | INFO | Prediction: 8 (94.0%)
+2026-06-14 01:34:00,290 | INFO | History: 100 predictions, avg conf 80.3%
+2026-06-14 01:35:10,707 | INFO | Predict digit=0 conf=95.9% (raw=0)
+2026-06-14 01:35:10,714 | INFO | Prediction: 0 (95.9%)
+2026-06-14 01:35:12,644 | INFO | History: 100 predictions, avg conf 80.4%
+2026-06-14 01:35:12,929 | INFO | Predict digit=0 conf=95.9% (raw=0)
+2026-06-14 01:35:12,935 | INFO | Prediction: 0 (95.9%)
+2026-06-14 01:35:12,964 | INFO | History: 100 predictions, avg conf 80.8%
+2026-06-14 01:35:20,846 | INFO | Predict digit=9 conf=95.5% (raw=9)
+2026-06-14 01:35:20,854 | INFO | Prediction: 9 (95.5%)
+2026-06-14 01:35:22,710 | INFO | History: 100 predictions, avg conf 81.2%
+2026-06-14 01:35:23,369 | INFO | Predict digit=9 conf=95.5% (raw=9)
+2026-06-14 01:35:23,377 | INFO | Prediction: 9 (95.5%)
+2026-06-14 01:35:23,393 | INFO | History: 100 predictions, avg conf 81.2%
+2026-06-14 01:35:32,925 | INFO | Predict digit=1 conf=100.0% (raw=1)
+2026-06-14 01:35:32,931 | INFO | Prediction: 1 (100.0%)
+2026-06-14 01:35:32,955 | INFO | History: 100 predictions, avg conf 81.2%
+2026-06-14 01:35:36,365 | INFO | Predict digit=1 conf=100.0% (raw=1)
+2026-06-14 01:35:36,371 | INFO | Prediction: 1 (100.0%)
+2026-06-14 01:35:36,392 | INFO | History: 100 predictions, avg conf 81.3%
+2026-06-14 01:35:37,786 | INFO | Predict digit=1 conf=100.0% (raw=1)
+2026-06-14 01:35:37,793 | INFO | Prediction: 1 (100.0%)
+2026-06-14 01:35:39,622 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:35:54,031 | INFO | Predict digit=2 conf=88.8% (raw=2)
+2026-06-14 01:35:54,037 | INFO | Prediction: 2 (88.8%)
+2026-06-14 01:35:55,794 | INFO | History: 100 predictions, avg conf 81.3%
+2026-06-14 01:35:55,901 | INFO | Predict digit=2 conf=88.8% (raw=2)
+2026-06-14 01:35:55,907 | INFO | Prediction: 2 (88.8%)
+2026-06-14 01:35:55,928 | INFO | History: 100 predictions, avg conf 81.3%
+2026-06-14 01:36:13,098 | INFO | Predict digit=0 conf=97.1% (raw=0)
+2026-06-14 01:36:13,103 | INFO | Prediction: 0 (97.1%)
+2026-06-14 01:36:13,132 | INFO | History: 100 predictions, avg conf 81.3%
+2026-06-14 01:36:24,495 | INFO | Predict digit=8 conf=78.0% (raw=3)
+2026-06-14 01:36:24,504 | INFO | Prediction: 8 (78.0%)
+2026-06-14 01:36:26,263 | INFO | History: 100 predictions, avg conf 81.1%
+2026-06-14 01:36:27,376 | INFO | Predict digit=8 conf=78.0% (raw=3)
+2026-06-14 01:36:27,384 | INFO | Prediction: 8 (78.0%)
+2026-06-14 01:36:27,405 | INFO | History: 100 predictions, avg conf 81.2%
+2026-06-14 01:36:35,363 | INFO | Predict digit=8 conf=78.0% (raw=3)
+2026-06-14 01:36:35,369 | INFO | Prediction: 8 (78.0%)
+2026-06-14 01:36:35,395 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:36:57,101 | INFO | Predict digit=2 conf=97.5% (raw=2)
+2026-06-14 01:36:57,107 | INFO | Prediction: 2 (97.5%)
+2026-06-14 01:36:58,871 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:36:59,386 | INFO | Predict digit=2 conf=97.5% (raw=2)
+2026-06-14 01:36:59,390 | INFO | Prediction: 2 (97.5%)
+2026-06-14 01:36:59,407 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:37:23,145 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 01:37:23,153 | INFO | Prediction: 4 (100.0%)
+2026-06-14 01:37:24,959 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:37:25,061 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 01:37:25,070 | INFO | Prediction: 4 (100.0%)
+2026-06-14 01:37:25,091 | INFO | History: 100 predictions, avg conf 81.4%
+2026-06-14 01:37:34,413 | INFO | Predict digit=0 conf=63.2% (raw=0)
+2026-06-14 01:37:34,419 | INFO | Prediction: 0 (63.2%)
+2026-06-14 01:37:36,328 | INFO | History: 100 predictions, avg conf 81.5%
+2026-06-14 01:37:36,440 | INFO | Predict digit=0 conf=63.2% (raw=0)
+2026-06-14 01:37:36,448 | INFO | Prediction: 0 (63.2%)
+2026-06-14 01:37:36,472 | INFO | History: 100 predictions, avg conf 81.6%
+2026-06-14 01:37:48,824 | INFO | Predict digit=5 conf=99.9% (raw=5)
+2026-06-14 01:37:48,830 | INFO | Prediction: 5 (99.9%)
+2026-06-14 01:37:50,691 | INFO | History: 100 predictions, avg conf 81.6%
+2026-06-14 01:37:50,794 | INFO | Predict digit=5 conf=99.9% (raw=5)
+2026-06-14 01:37:50,802 | INFO | Prediction: 5 (99.9%)
+2026-06-14 01:37:50,825 | INFO | History: 100 predictions, avg conf 81.6%
+2026-06-14 01:38:00,502 | INFO | Predict digit=8 conf=78.0% (raw=6)
+2026-06-14 01:38:00,507 | INFO | Prediction: 8 (78.0%)
+2026-06-14 01:38:02,278 | INFO | History: 100 predictions, avg conf 81.6%
+2026-06-14 01:38:02,393 | INFO | Predict digit=8 conf=78.0% (raw=6)
+2026-06-14 01:38:02,406 | INFO | Prediction: 8 (78.0%)
+2026-06-14 01:38:02,430 | INFO | History: 100 predictions, avg conf 81.6%
+2026-06-14 01:38:26,823 | INFO | Predict digit=8 conf=78.0% (raw=6)
+2026-06-14 01:38:26,830 | INFO | Prediction: 8 (78.0%)
+2026-06-14 01:38:28,638 | INFO | History: 100 predictions, avg conf 81.9%
+2026-06-14 01:38:28,753 | INFO | Predict digit=8 conf=78.0% (raw=6)
+2026-06-14 01:38:28,760 | INFO | Prediction: 8 (78.0%)
+2026-06-14 01:38:28,784 | INFO | History: 100 predictions, avg conf 82.1%
+2026-06-14 01:38:38,617 | INFO | Predict digit=9 conf=98.3% (raw=9)
+2026-06-14 01:38:38,623 | INFO | Prediction: 9 (98.3%)
+2026-06-14 01:38:40,474 | INFO | History: 100 predictions, avg conf 82.1%
+2026-06-14 01:38:41,039 | INFO | Predict digit=9 conf=98.3% (raw=9)
+2026-06-14 01:38:41,047 | INFO | Prediction: 9 (98.3%)
+2026-06-14 01:38:41,073 | INFO | History: 100 predictions, avg conf 82.1%
+2026-06-14 01:39:41,572 | INFO | Application closed.
+2026-06-14 01:41:03,917 | INFO | Loading cached MNIST from dataset/
+2026-06-14 01:41:06,214 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-14 01:41:28,760 | INFO | Training set size: 88518 (with air-drawn augmentation)
+2026-06-14 01:41:28,967 | INFO | Training scikit-learn MLP...
+2026-06-14 01:45:22,079 | INFO | Initializing hand detector...
+2026-06-14 01:45:22,272 | INFO | Loading MNIST digit classifier...
+2026-06-14 01:45:22,274 | INFO | No model found — training MNIST classifier (one-time)...
+2026-06-14 01:45:22,276 | INFO | Loading cached MNIST from dataset/
+2026-06-14 01:45:23,420 | INFO | Augmenting with thick air-drawn stroke variants...
+2026-06-14 01:45:35,482 | INFO | Training set size: 88518 (with air-drawn augmentation)
+2026-06-14 01:45:35,663 | INFO | Training scikit-learn MLP...
+2026-06-14 02:18:40,674 | INFO | Training accuracy: 98.99%
+2026-06-14 02:18:40,743 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v8.joblib
+2026-06-14 02:22:14,869 | INFO | Training accuracy: 98.99%
+2026-06-14 02:22:14,953 | INFO | Model saved to D:\6th sem\AI\project\models\mnist_digit_model_v8.joblib
+2026-06-14 02:22:44,535 | INFO | Application started (1280x672)
+2026-06-14 02:23:20,677 | INFO | Predict digit=8 conf=96.5% (raw=8)
+2026-06-14 02:23:20,692 | INFO | Prediction: 8 (96.5%)
+2026-06-14 02:23:22,875 | INFO | History: 100 predictions, avg conf 82.6%
+2026-06-14 02:23:23,208 | INFO | Predict digit=8 conf=96.5% (raw=8)
+2026-06-14 02:23:23,412 | INFO | Prediction: 8 (96.5%)
+2026-06-14 02:23:23,623 | INFO | History: 100 predictions, avg conf 83.1%
+2026-06-14 02:23:34,647 | INFO | Predict digit=3 conf=100.0% (raw=3)
+2026-06-14 02:23:34,666 | INFO | Prediction: 3 (100.0%)
+2026-06-14 02:23:36,497 | INFO | History: 100 predictions, avg conf 83.2%
+2026-06-14 02:23:36,922 | INFO | Predict digit=3 conf=100.0% (raw=3)
+2026-06-14 02:23:36,929 | INFO | Prediction: 3 (100.0%)
+2026-06-14 02:23:36,949 | INFO | History: 100 predictions, avg conf 83.4%
+2026-06-14 02:25:34,253 | INFO | Predict digit=4 conf=99.6% (raw=4)
+2026-06-14 02:25:34,259 | INFO | Prediction: 4 (99.6%)
+2026-06-14 02:25:36,117 | INFO | History: 100 predictions, avg conf 83.6%
+2026-06-14 02:25:36,222 | INFO | Predict digit=4 conf=99.6% (raw=4)
+2026-06-14 02:25:36,232 | INFO | Prediction: 4 (99.6%)
+2026-06-14 02:25:36,251 | INFO | History: 100 predictions, avg conf 83.9%
+2026-06-14 02:25:49,850 | INFO | Predict digit=6 conf=99.9% (raw=6)
+2026-06-14 02:25:49,855 | INFO | Prediction: 6 (99.9%)
+2026-06-14 02:25:51,785 | INFO | History: 100 predictions, avg conf 84.4%
+2026-06-14 02:25:52,124 | INFO | Predict digit=6 conf=99.9% (raw=6)
+2026-06-14 02:25:52,134 | INFO | Prediction: 6 (99.9%)
+2026-06-14 02:25:52,156 | INFO | History: 100 predictions, avg conf 84.9%
+2026-06-14 02:26:18,145 | INFO | Predict digit=3 conf=99.2% (raw=3)
+2026-06-14 02:26:18,151 | INFO | Prediction: 3 (99.2%)
+2026-06-14 02:26:19,944 | INFO | History: 100 predictions, avg conf 84.9%
+2026-06-14 02:26:20,049 | INFO | Predict digit=3 conf=99.2% (raw=3)
+2026-06-14 02:26:20,054 | INFO | Prediction: 3 (99.2%)
+2026-06-14 02:26:20,070 | INFO | History: 100 predictions, avg conf 84.9%
+2026-06-14 02:26:36,545 | INFO | Predict digit=9 conf=47.6% (raw=8)
+2026-06-14 02:26:36,553 | INFO | Prediction: 9 (47.6%)
+2026-06-14 02:26:38,409 | INFO | History: 100 predictions, avg conf 84.3%
+2026-06-14 02:26:38,509 | INFO | Predict digit=9 conf=47.6% (raw=8)
+2026-06-14 02:26:38,525 | INFO | Prediction: 9 (47.6%)
+2026-06-14 02:26:38,547 | INFO | History: 100 predictions, avg conf 84.0%
+2026-06-14 02:26:53,547 | INFO | Predict digit=8 conf=100.0% (raw=8)
+2026-06-14 02:26:53,553 | INFO | Prediction: 8 (100.0%)
+2026-06-14 02:26:55,303 | INFO | History: 100 predictions, avg conf 84.2%
+2026-06-14 02:26:55,783 | INFO | Predict digit=8 conf=100.0% (raw=8)
+2026-06-14 02:26:55,800 | INFO | Prediction: 8 (100.0%)
+2026-06-14 02:26:55,835 | INFO | History: 100 predictions, avg conf 84.5%
+2026-06-14 02:28:28,597 | INFO | Application closed.
+2026-06-14 16:41:50,283 | INFO | Initializing hand detector...
+2026-06-14 16:41:50,565 | INFO | Loading MNIST digit classifier...
+2026-06-14 16:41:50,566 | INFO | Loading digit model from D:\6th sem\AI\project\models\mnist_digit_model_v8.joblib
+2026-06-14 16:41:58,723 | INFO | Application started (1280x672)
+2026-06-14 16:42:12,741 | INFO | Predict digit=2 conf=95.9% (raw=2)
+2026-06-14 16:42:12,745 | INFO | Prediction: 2 (95.9%)
+2026-06-14 16:42:15,852 | INFO | History: 100 predictions, avg conf 84.9%
+2026-06-14 16:42:15,896 | INFO | Predict digit=2 conf=95.9% (raw=2)
+2026-06-14 16:42:15,899 | INFO | Prediction: 2 (95.9%)
+2026-06-14 16:42:15,907 | INFO | History: 100 predictions, avg conf 85.2%
+2026-06-14 16:42:25,159 | INFO | Predict digit=1 conf=84.5% (raw=1)
+2026-06-14 16:42:25,163 | INFO | Prediction: 1 (84.5%)
+2026-06-14 16:42:26,848 | INFO | History: 100 predictions, avg conf 85.1%
+2026-06-14 16:42:27,478 | INFO | Predict digit=1 conf=84.5% (raw=1)
+2026-06-14 16:42:27,481 | INFO | Prediction: 1 (84.5%)
+2026-06-14 16:42:27,491 | INFO | History: 100 predictions, avg conf 85.0%
+2026-06-14 16:42:35,921 | INFO | Predict digit=2 conf=100.0% (raw=2)
+2026-06-14 16:42:35,925 | INFO | Prediction: 2 (100.0%)
+2026-06-14 16:42:37,564 | INFO | History: 100 predictions, avg conf 85.0%
+2026-06-14 16:42:38,440 | INFO | Predict digit=2 conf=100.0% (raw=2)
+2026-06-14 16:42:38,444 | INFO | Prediction: 2 (100.0%)
+2026-06-14 16:42:38,455 | INFO | History: 100 predictions, avg conf 85.0%
+2026-06-14 16:42:47,236 | INFO | Predict digit=2 conf=84.2% (raw=2)
+2026-06-14 16:42:47,240 | INFO | Prediction: 2 (84.2%)
+2026-06-14 16:42:48,876 | INFO | History: 100 predictions, avg conf 84.9%
+2026-06-14 16:42:49,763 | INFO | Predict digit=2 conf=84.2% (raw=2)
+2026-06-14 16:42:49,766 | INFO | Prediction: 2 (84.2%)
+2026-06-14 16:42:49,776 | INFO | History: 100 predictions, avg conf 84.8%
+2026-06-14 16:42:59,204 | INFO | Predict digit=4 conf=75.0% (raw=9)
+2026-06-14 16:42:59,208 | INFO | Prediction: 4 (75.0%)
+2026-06-14 16:43:00,893 | INFO | History: 100 predictions, avg conf 85.1%
+2026-06-14 16:43:01,477 | INFO | Predict digit=4 conf=75.0% (raw=9)
+2026-06-14 16:43:01,480 | INFO | Prediction: 4 (75.0%)
+2026-06-14 16:43:01,489 | INFO | History: 100 predictions, avg conf 85.5%
+2026-06-14 16:43:12,520 | INFO | Predict digit=6 conf=100.0% (raw=6)
+2026-06-14 16:43:12,524 | INFO | Prediction: 6 (100.0%)
+2026-06-14 16:43:14,317 | INFO | History: 100 predictions, avg conf 86.1%
+2026-06-14 16:43:14,762 | INFO | Predict digit=6 conf=100.0% (raw=6)
+2026-06-14 16:43:14,765 | INFO | Prediction: 6 (100.0%)
+2026-06-14 16:43:14,777 | INFO | History: 100 predictions, avg conf 86.5%
+2026-06-14 16:43:35,299 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 16:43:35,304 | INFO | Prediction: 4 (100.0%)
+2026-06-14 16:43:37,697 | INFO | History: 100 predictions, avg conf 87.0%
+2026-06-14 16:43:37,737 | INFO | Predict digit=4 conf=100.0% (raw=4)
+2026-06-14 16:43:37,743 | INFO | Prediction: 4 (100.0%)
+2026-06-14 16:43:37,751 | INFO | History: 100 predictions, avg conf 87.0%
+2026-06-14 16:43:49,931 | INFO | Predict digit=6 conf=66.5% (raw=6)
+2026-06-14 16:43:49,937 | INFO | Prediction: 6 (66.5%)
+2026-06-14 16:43:49,947 | INFO | History: 100 predictions, avg conf 86.7%
+2026-06-14 16:43:52,568 | INFO | Predict digit=6 conf=66.5% (raw=6)
+2026-06-14 16:43:52,571 | INFO | Prediction: 6 (66.5%)
+2026-06-14 16:43:55,056 | INFO | History: 100 predictions, avg conf 86.6%
+2026-06-14 16:44:03,202 | INFO | Predict digit=3 conf=46.7% (raw=3)
+2026-06-14 16:44:03,205 | INFO | Prediction: 3 (46.7%)
+2026-06-14 16:44:04,934 | INFO | History: 100 predictions, avg conf 86.1%
+2026-06-14 16:44:05,173 | INFO | Predict digit=3 conf=46.7% (raw=3)
+2026-06-14 16:44:05,177 | INFO | Prediction: 3 (46.7%)
+2026-06-14 16:44:05,187 | INFO | History: 100 predictions, avg conf 85.6%
+2026-06-14 16:44:17,510 | INFO | Predict digit=5 conf=88.6% (raw=5)
+2026-06-14 16:44:17,516 | INFO | Prediction: 5 (88.6%)
+2026-06-14 16:44:19,899 | INFO | History: 100 predictions, avg conf 85.6%
+2026-06-14 16:44:19,942 | INFO | Predict digit=5 conf=88.6% (raw=5)
+2026-06-14 16:44:19,945 | INFO | Prediction: 5 (88.6%)
+2026-06-14 16:44:19,952 | INFO | History: 100 predictions, avg conf 85.6%
+2026-06-14 16:44:37,204 | INFO | Predict digit=3 conf=96.8% (raw=3)
+2026-06-14 16:44:37,207 | INFO | Prediction: 3 (96.8%)
+2026-06-14 16:44:39,605 | INFO | History: 100 predictions, avg conf 85.8%
+2026-06-14 16:44:39,644 | INFO | Predict digit=3 conf=96.8% (raw=3)
+2026-06-14 16:44:39,651 | INFO | Prediction: 3 (96.8%)
+2026-06-14 16:44:39,661 | INFO | History: 100 predictions, avg conf 85.8%
+2026-06-14 16:44:56,206 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_14_16_44_56.png
+2026-06-14 16:45:02,638 | INFO | Predict digit=5 conf=100.0% (raw=5)
+2026-06-14 16:45:02,641 | INFO | Prediction: 5 (100.0%)
+2026-06-14 16:45:05,070 | INFO | History: 100 predictions, avg conf 85.8%
+2026-06-14 16:45:05,109 | INFO | Predict digit=5 conf=100.0% (raw=5)
+2026-06-14 16:45:05,112 | INFO | Prediction: 5 (100.0%)
+2026-06-14 16:45:05,120 | INFO | History: 100 predictions, avg conf 86.0%
+2026-06-14 16:45:20,770 | INFO | Predict digit=5 conf=99.8% (raw=5)
+2026-06-14 16:45:20,772 | INFO | Prediction: 5 (99.8%)
+2026-06-14 16:45:23,214 | INFO | History: 100 predictions, avg conf 86.3%
+2026-06-14 16:45:23,256 | INFO | Predict digit=5 conf=99.8% (raw=5)
+2026-06-14 16:45:23,259 | INFO | Prediction: 5 (99.8%)
+2026-06-14 16:45:23,266 | INFO | History: 100 predictions, avg conf 86.8%
+2026-06-14 16:45:29,871 | INFO | Predict digit=7 conf=99.9% (raw=7)
+2026-06-14 16:45:29,874 | INFO | Prediction: 7 (99.9%)
+2026-06-14 16:45:31,655 | INFO | History: 100 predictions, avg conf 87.3%
+2026-06-14 16:45:31,992 | INFO | Predict digit=7 conf=99.9% (raw=7)
+2026-06-14 16:45:31,995 | INFO | Prediction: 7 (99.9%)
+2026-06-14 16:45:32,004 | INFO | History: 100 predictions, avg conf 87.8%
+2026-06-14 16:45:41,067 | INFO | Predict digit=8 conf=77.5% (raw=8)
+2026-06-14 16:45:41,070 | INFO | Prediction: 8 (77.5%)
+2026-06-14 16:45:42,699 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-14 16:45:42,795 | INFO | Predict digit=8 conf=77.5% (raw=8)
+2026-06-14 16:45:42,798 | INFO | Prediction: 8 (77.5%)
+2026-06-14 16:45:42,811 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-14 16:45:51,163 | INFO | Predict digit=9 conf=99.2% (raw=9)
+2026-06-14 16:45:51,166 | INFO | Prediction: 9 (99.2%)
+2026-06-14 16:45:52,892 | INFO | History: 100 predictions, avg conf 88.1%
+2026-06-14 16:45:53,382 | INFO | Predict digit=9 conf=99.2% (raw=9)
+2026-06-14 16:45:53,386 | INFO | Prediction: 9 (99.2%)
+2026-06-14 16:45:53,394 | INFO | History: 100 predictions, avg conf 88.1%
+2026-06-14 16:46:00,791 | INFO | Predict digit=3 conf=55.1% (raw=3)
+2026-06-14 16:46:00,795 | INFO | Prediction: 3 (55.1%)
+2026-06-14 16:46:02,492 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-14 16:46:02,871 | INFO | Predict digit=3 conf=55.1% (raw=3)
+2026-06-14 16:46:02,874 | INFO | Prediction: 3 (55.1%)
+2026-06-14 16:46:02,882 | INFO | History: 100 predictions, avg conf 87.4%
+2026-06-14 16:46:16,240 | INFO | Predict digit=5 conf=100.0% (raw=5)
+2026-06-14 16:46:16,243 | INFO | Prediction: 5 (100.0%)
+2026-06-14 16:46:18,674 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-14 16:46:18,717 | INFO | Predict digit=5 conf=100.0% (raw=5)
+2026-06-14 16:46:18,721 | INFO | Prediction: 5 (100.0%)
+2026-06-14 16:46:18,728 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-14 16:46:22,455 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_14_16_46_22.png
+2026-06-14 16:46:27,672 | INFO | Predict digit=9 conf=98.9% (raw=9)
+2026-06-14 16:46:27,677 | INFO | Prediction: 9 (98.9%)
+2026-06-14 16:46:29,411 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-14 16:46:30,219 | INFO | Predict digit=9 conf=98.9% (raw=9)
+2026-06-14 16:46:30,221 | INFO | Prediction: 9 (98.9%)
+2026-06-14 16:46:30,230 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-14 16:46:38,665 | INFO | Predict digit=3 conf=99.9% (raw=3)
+2026-06-14 16:46:38,668 | INFO | Prediction: 3 (99.9%)
+2026-06-14 16:46:40,347 | INFO | History: 100 predictions, avg conf 87.6%
+2026-06-14 16:46:40,923 | INFO | Predict digit=3 conf=99.9% (raw=3)
+2026-06-14 16:46:40,926 | INFO | Prediction: 3 (99.9%)
+2026-06-14 16:46:40,934 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-14 16:46:42,503 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_14_16_46_42.png
+2026-06-14 16:46:55,348 | INFO | Predict digit=5 conf=100.0% (raw=5)
+2026-06-14 16:46:55,353 | INFO | Prediction: 5 (100.0%)
+2026-06-14 16:46:57,776 | INFO | History: 100 predictions, avg conf 88.4%
+2026-06-14 16:46:57,816 | INFO | Predict digit=5 conf=100.0% (raw=5)
+2026-06-14 16:46:57,821 | INFO | Prediction: 5 (100.0%)
+2026-06-14 16:46:57,828 | INFO | History: 100 predictions, avg conf 88.4%
+2026-06-14 16:47:11,940 | INFO | Predict digit=3 conf=99.7% (raw=3)
+2026-06-14 16:47:11,943 | INFO | Prediction: 3 (99.7%)
+2026-06-14 16:47:14,323 | INFO | History: 100 predictions, avg conf 88.4%
+2026-06-14 16:47:14,364 | INFO | Predict digit=3 conf=99.7% (raw=3)
+2026-06-14 16:47:14,366 | INFO | Prediction: 3 (99.7%)
+2026-06-14 16:47:14,375 | INFO | History: 100 predictions, avg conf 88.4%
+2026-06-14 16:47:29,515 | INFO | Predict digit=0 conf=57.9% (raw=0)
+2026-06-14 16:47:29,519 | INFO | Prediction: 0 (57.9%)
+2026-06-14 16:47:31,955 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-14 16:47:31,999 | INFO | Predict digit=0 conf=57.9% (raw=0)
+2026-06-14 16:47:32,003 | INFO | Prediction: 0 (57.9%)
+2026-06-14 16:47:32,010 | INFO | History: 100 predictions, avg conf 87.7%
+2026-06-14 16:47:37,563 | INFO | Predict digit=0 conf=72.0% (raw=0)
+2026-06-14 16:47:37,565 | INFO | Prediction: 0 (72.0%)
+2026-06-14 16:47:39,334 | INFO | History: 100 predictions, avg conf 87.4%
+2026-06-14 16:47:39,352 | INFO | Predict digit=0 conf=72.0% (raw=0)
+2026-06-14 16:47:39,355 | INFO | Prediction: 0 (72.0%)
+2026-06-14 16:47:39,364 | INFO | History: 100 predictions, avg conf 87.1%
+2026-06-14 16:47:58,140 | INFO | Predict digit=3 conf=97.9% (raw=3)
+2026-06-14 16:47:58,145 | INFO | Prediction: 3 (97.9%)
+2026-06-14 16:48:00,587 | INFO | History: 100 predictions, avg conf 87.1%
+2026-06-14 16:48:00,624 | INFO | Predict digit=3 conf=97.9% (raw=3)
+2026-06-14 16:48:00,629 | INFO | Prediction: 3 (97.9%)
+2026-06-14 16:48:00,636 | INFO | History: 100 predictions, avg conf 87.5%
+2026-06-14 16:48:16,044 | INFO | Predict digit=5 conf=99.7% (raw=5)
+2026-06-14 16:48:16,046 | INFO | Prediction: 5 (99.7%)
+2026-06-14 16:48:18,477 | INFO | History: 100 predictions, avg conf 87.9%
+2026-06-14 16:48:18,513 | INFO | Predict digit=5 conf=99.7% (raw=5)
+2026-06-14 16:48:18,516 | INFO | Prediction: 5 (99.7%)
+2026-06-14 16:48:18,525 | INFO | History: 100 predictions, avg conf 88.2%
+2026-06-14 16:48:30,248 | INFO | Predict digit=3 conf=100.0% (raw=3)
+2026-06-14 16:48:30,253 | INFO | Prediction: 3 (100.0%)
+2026-06-14 16:48:32,642 | INFO | History: 100 predictions, avg conf 88.4%
+2026-06-14 16:48:32,686 | INFO | Predict digit=3 conf=100.0% (raw=3)
+2026-06-14 16:48:32,689 | INFO | Prediction: 3 (100.0%)
+2026-06-14 16:48:32,696 | INFO | History: 100 predictions, avg conf 88.9%
+2026-06-14 16:48:45,605 | INFO | Predict digit=0 conf=100.0% (raw=0)
+2026-06-14 16:48:45,608 | INFO | Prediction: 0 (100.0%)
+2026-06-14 16:48:48,042 | INFO | History: 100 predictions, avg conf 89.5%
+2026-06-14 16:48:48,081 | INFO | Predict digit=0 conf=100.0% (raw=0)
+2026-06-14 16:48:48,086 | INFO | Prediction: 0 (100.0%)
+2026-06-14 16:48:48,093 | INFO | History: 100 predictions, avg conf 89.7%
+2026-06-14 16:49:12,529 | INFO | Predict digit=0 conf=93.3% (raw=0)
+2026-06-14 16:49:12,533 | INFO | Prediction: 0 (93.3%)
+2026-06-14 16:49:12,542 | INFO | History: 100 predictions, avg conf 89.8%
+2026-06-14 16:49:30,794 | INFO | Predict digit=4 conf=97.6% (raw=4)
+2026-06-14 16:49:30,798 | INFO | Prediction: 4 (97.6%)
+2026-06-14 16:49:30,810 | INFO | History: 100 predictions, avg conf 89.8%
+2026-06-14 16:49:36,057 | INFO | Rejected non-digit shape: Too small - draw a full digit (0-9).
+2026-06-14 16:49:46,407 | INFO | Predict digit=4 conf=99.7% (raw=4)
+2026-06-14 16:49:46,411 | INFO | Prediction: 4 (99.7%)
+2026-06-14 16:49:46,425 | INFO | History: 100 predictions, avg conf 89.9%
+2026-06-14 16:49:55,870 | INFO | Predict digit=0 conf=99.8% (raw=0)
+2026-06-14 16:49:55,873 | INFO | Prediction: 0 (99.8%)
+2026-06-14 16:49:55,884 | INFO | History: 100 predictions, avg conf 89.9%
+2026-06-14 16:50:11,656 | INFO | Predict digit=0 conf=73.9% (raw=0)
+2026-06-14 16:50:11,659 | INFO | Prediction: 0 (73.9%)
+2026-06-14 16:50:11,668 | INFO | History: 100 predictions, avg conf 89.7%
+2026-06-14 16:52:12,254 | INFO | Predict digit=0 conf=100.0% (raw=0)
+2026-06-14 16:52:12,258 | INFO | Prediction: 0 (100.0%)
+2026-06-14 16:52:12,268 | INFO | History: 100 predictions, avg conf 89.7%
+2026-06-14 16:52:57,677 | INFO | Predict digit=4 conf=75.0% (raw=9)
+2026-06-14 16:52:57,682 | INFO | Prediction: 4 (75.0%)
+2026-06-14 16:52:57,690 | INFO | History: 100 predictions, avg conf 89.5%
+2026-06-14 16:53:12,031 | INFO | Predict digit=5 conf=99.6% (raw=5)
+2026-06-14 16:53:12,035 | INFO | Prediction: 5 (99.6%)
+2026-06-14 16:53:12,044 | INFO | History: 100 predictions, avg conf 89.5%
+2026-06-14 16:53:12,863 | INFO | Drawing saved to D:\6th sem\AI\project\saved_drawings\digit_2026_06_14_16_53_12.png
+2026-06-14 16:53:59,179 | INFO | Predict digit=6 conf=78.0% (raw=4)
+2026-06-14 16:53:59,182 | INFO | Prediction: 6 (78.0%)
+2026-06-14 16:53:59,192 | INFO | History: 100 predictions, avg conf 89.3%
+2026-06-14 16:54:19,517 | INFO | Predict digit=6 conf=51.8% (raw=6)
+2026-06-14 16:54:19,522 | INFO | Prediction: 6 (51.8%)
+2026-06-14 16:54:22,015 | INFO | History: 100 predictions, avg conf 88.8%
+2026-06-14 16:54:22,057 | INFO | Predict digit=6 conf=51.8% (raw=6)
+2026-06-14 16:54:22,061 | INFO | Prediction: 6 (51.8%)
+2026-06-14 16:54:22,070 | INFO | History: 100 predictions, avg conf 88.5%
+2026-06-14 16:54:28,253 | INFO | Predict digit=6 conf=51.8% (raw=6)
+2026-06-14 16:54:28,256 | INFO | Prediction: 6 (51.8%)
+2026-06-14 16:54:30,027 | INFO | History: 100 predictions, avg conf 88.1%
+2026-06-14 16:54:57,472 | INFO | Predict digit=9 conf=87.4% (raw=9)
+2026-06-14 16:54:57,475 | INFO | Prediction: 9 (87.4%)
+2026-06-14 16:54:57,484 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-14 16:55:18,927 | INFO | Predict digit=9 conf=78.0% (raw=4)
+2026-06-14 16:55:18,931 | INFO | Prediction: 9 (78.0%)
+2026-06-14 16:55:18,943 | INFO | History: 100 predictions, avg conf 88.0%
+2026-06-14 16:55:43,712 | INFO | Application closed.
